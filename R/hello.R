@@ -1,18 +1,24 @@
-# Hello, world!
-#
-# This is an example function named 'hello' 
-# which prints 'Hello, world!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   http://r-pkgs.had.co.nz/
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Cmd + Shift + B'
-#   Check Package:             'Cmd + Shift + E'
-#   Test Package:              'Cmd + Shift + T'
+# Function to create a CSV file for importing pre-mapped names
 
-hello <- function() {
-  print("Hello, world!")
-}
+# it will take as arguments the original tip labels, the modified labels for mapping, and the OTT id mapped using R
+
+
+# Example using Harvey 2020 chronogram
+
+# read the tree in
+phy <- ape::read.tree(file="data-raw/mgharvey-tyranni-f73aa7f/species_trees/final_timetrees/T400F_complete.tre")
+
+ls(phy)
+str(phy)
+phy$edge
+
+# get orignal labels
+original_labels <- phy$tip.label
+
+head(original_labels)
+
+# get labels suitable for OTU mapping
+
+
+
+
