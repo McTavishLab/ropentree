@@ -1,0 +1,24 @@
+---
+title: "plant_genera"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(rotl)
+```
+
+# Read a list of taxa
+
+# Match taxon names to OpenTree Taxonomy
+
+# Get an OpenTree synthetic tree for each genus
+
+# Get GBIF taxon names of tree tip labels
+
+# Get GBIF data for tips in tree
