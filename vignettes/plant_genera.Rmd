@@ -13,11 +13,74 @@ knitr::opts_chunk$set(
 library(rotl)
 ```
 
-# Read a list of taxa
+# Get a set of taxon names
 
-# Match taxon names to OpenTree Taxonomy
+Read a file with taxon names. The function `read.csv` will read them as a data frame or table.
 
-# Get an OpenTree synthetic tree for each genus
+```{r}
+taxa <- read.csv("../data-raw/plant_genera.txt", header = FALSE)
+str(taxa)
+```
+
+Make a character vector of taxon names
+```{r}
+
+taxa <- taxa$V1
+str(taxa)
+```
+
+# Match taxon names to OpenTree Taxonomy (OTT)
+
+We will use the `tnrs_match_names` function from the `rotl` R package.
+```{r}
+taxa_tnrs <- rotl::tnrs_match_names(taxa)
+ls(taxa_tnrs)
+```
+It generates a dat frame with teh results of the TNRS match to the OpenTree Taxonomy (OTT).
+
+We want the OTT id numbers.
+
+```{r}
+taxa_ott_ids <- taxa_tnrs$ott_id
+```
+
+# Get an OpenTree synthetic subtree for each genus
+
+To extract a synthetic subtree containing all descendants of any taxon, we will use the function `tol_subtree`, from the `rotl` R package, again.
+
+```{r}
+subtree_taxon1 <- rotl::tol_subtree(taxa_ott_ids[1], label_format = "name")
+subtree_taxon1
+```
+
+The function just allows one OTT id at a time, to get all subtrees at once, we can use a for loop or a handy `lapply` function.
+
+```{r}
+subtree_taxa_all <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "name")
+```
+It is easier to catch errors with a for loop:
+
+```{r}
+subtree_taxa_all <- vector(mode = "list")
+for (n in taxa_ott_ids){
+  subtree <- try(rotl::tol_subtree(n, label_format = "name"))
+  print(subtree)
+  subtree_taxa_all <- c(subtree_taxa_all, list(subtree))
+  
+}
+str(subtree_taxa_all)
+```
+
+Check which ones errored and which ones produced a subtree:
+
+```{r}
+sapply(subtree_taxa_all, class)
+
+is_error <-   sapply(subtree_taxa_all, class) %in% "try-error"
+is_phylo <-   sapply(subtree_taxa_all, class) %in% "phylo"
+```
+
+Out of the `r length(subtree_taxa_all)` taxon OTT ids tried, `r sum(is_error)` were unsuccessful and `r length(is_phylo)` retrieved a subtree successfully.
 
 # Get GBIF taxon names of tree tip labels
 
