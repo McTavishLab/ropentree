@@ -56,21 +56,34 @@ subtree_taxon1
 The function just allows one OTT id at a time, to get all subtrees at once, we can use a for loop or a handy `lapply` function.
 
 ```{r}
-subtree_taxa_all <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "name")
+subtree_taxa_all_name <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "")
+subtree_taxa_all_id <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "id")
 ```
 It is easier to catch errors with a for loop:
 
 ```{r}
-subtree_taxa_all <- vector(mode = "list")
+subtree_taxa_all_id <- vector(mode = "list")
 for (n in taxa_ott_ids){
-  subtree <- try(rotl::tol_subtree(n, label_format = "name"))
-  print(subtree)
-  subtree_taxa_all <- c(subtree_taxa_all, list(subtree))
+  subtree <- try(rotl::tol_subtree(n, label_format = "id"))
+  # print(subtree)
+  subtree_taxa_all_id <- c(subtree_taxa_all_id, list(subtree))
   
 }
-str(subtree_taxa_all)
+length(subtree_taxa_all_id)
 ```
 
+Let's do the same with scientific names:
+
+```{r}
+subtree_taxa_all_name <- vector(mode = "list")
+for (n in taxa_ott_ids){
+  subtree <- try(rotl::tol_subtree(n, label_format = "name"))
+  # print(subtree)
+  subtree_taxa_all_name <- c(subtree_taxa_all_name, list(subtree))
+  
+}
+length(subtree_taxa_all_name)
+```
 Check which ones errored and which ones produced a subtree:
 
 ```{r}
@@ -80,8 +93,60 @@ is_error <-   sapply(subtree_taxa_all, class) %in% "try-error"
 is_phylo <-   sapply(subtree_taxa_all, class) %in% "phylo"
 ```
 
-Out of the `r length(subtree_taxa_all)` taxon OTT ids tried, `r sum(is_error)` were unsuccessful and `r length(is_phylo)` retrieved a subtree successfully.
+Out of the `r length(subtree_taxa_all)` taxon OTT ids tried, `r sum(is_error)` were unsuccessful and the remainder `r sum(is_phylo)` retrieved a subtree successfully.
 
-# Get GBIF taxon names of tree tip labels
+We will make a new list object containing subtrees only, excluding the errors:
+
+```{r}
+subtree_taxa_phylo_name <- subtree_taxa_all_name[is_phylo]
+length(subtree_taxa_phylo_name)
+
+subtree_taxa_phylo_id <- subtree_taxa_all_id[is_phylo]
+length(subtree_taxa_phylo_id)
+
+```
+Now, we can make a vector containing all taxon names that are tip labels in the synthetic subtrees:
+
+```{r}
+subtaxa_name <- sapply(subtree_taxa_phylo_name, "[", "tip.label")
+length(subtaxa_name)
+
+subtaxa_id <- sapply(subtree_taxa_phylo_id, "[", "tip.label")
+length(subtaxa_id)
+subtaxa_id[1]
+```
+
+
+# Get GBIF taxon names of tree tip labels (necessary??)
 
 # Get GBIF data for tips in tree
+
+We will use the function `occ_search` from the `rgbif` R package.
+Let's try it first with the scientific names in `subtaxa_name`:
+
+```{r}
+
+name <- gsub("_", " ", subtaxa_name[[1]][1])
+name_gbif <- rgbif::occ_search(scientificName = name, fields=c('name','decimalLatitude', 'decimalLongitude'), limit = 100)
+name_gbif$data
+```
+
+Next, do it in a loop:
+
+```{r}
+
+for (i in 1:length(subtaxa_name)){
+  
+  for (name in subtaxa_name[[i]]){
+      name <- gsub("_", " ", name)
+      name_gbif <- try(rgbif::occ_search(scientificName = name, 
+                                     fields=c('name','decimalLatitude', 'decimalLongitude'),
+                                     limit = 100))
+      name_gbif$data
+
+  }
+  
+}
+
+```
+
