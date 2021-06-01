@@ -86,7 +86,7 @@ Now, perform a TNRS match on the vector of unique scientific names with the `tnr
 
 ```{r}
 matched_labels  <-  sapply(adjusted_labels, function(x){
-  write(x, file = "../data-raw/test.txt", append = TRUE)
+  write(x, file = "../data-raw/test.txt", append = TRUE)  # writes down names to check for unwanted characters
   rotl::tnrs_match_names(names = x)}
   )
 str(matched_labels)
@@ -100,7 +100,7 @@ index <- match(data_table$matrix.species, names(matched_labels["ott_id",]))
 head(index, 10)
 ```
 
-This will allow you to create a vector of OTT ids that correspond to the original tip taxon labels: 
+This will allow you to create a vector of OTT ids that correspond to the original tip taxon labels:
 
 ```{r}
 ott <- unlist(matched_labels["ott_id",][index])
@@ -116,6 +116,4 @@ write.csv(results, file = "../data-raw/harvey2020nameset.csv)
 ```
 
 
-## Creating a json file 
-
-
+## Creating a json file
