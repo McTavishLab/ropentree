@@ -2,7 +2,7 @@
 title: "Creating a file of a pre-mapped nameset for OpenTree's import nameset tool"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{nameset_tool}
+  %\VignetteIndexEntry{Creating a file of a pre-mapped nameset for OpenTree's import nameset tool}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -15,19 +15,17 @@ knitr::opts_chunk$set(
 ```
 
 ```{r setup}
-library(ropentree)
+# library(ropentree)
 ```
 
-# Creating a CSV file of a pre-mapped nameset
+## Creating a CSV file of a pre-mapped nameset
 
 If your taxon names are on a newick tree file, read the tree into R with the `read.tree` function from the `ape` package. This will create a `phylo` object:
 
 ```{r}
-phy <- ape::read.tree(file="data-raw/mgharvey-tyranni-f73aa7f/species_trees/final_timetrees/T400F_complete.tre")
-
+phy <- ape::read.tree(file="../data-raw/mgharvey-tyranni-f73aa7f/species_trees/final_timetrees/T400F_complete.tre")
 ls(phy)
 str(phy)
-phy$edge
 ```
 
 Now, create a vector of original tip taxon labels
@@ -39,32 +37,38 @@ head(original_labels, 10)
 ```
 
 In this particular case, tip taxon labels are not suitable for mapping because the scientific names are cut off (e.g. Homo_sapiens is Hom_sap_000).
-So, we will need to link the tip taxon labels with the complete scientific name, as provided on a supplementary table from the original publication.
+So, we will need to link the tip taxon labels with the complete scientific name, as provided on a supplementary data table from the original publication.
 
-To do this, first read the csv file linking tip taxon labels with the complete scientific taxon names using the `read.csv` function:
+To do this, first read the supplementary data table file linking tip taxon labels with the complete scientific taxon names using the `read.csv` function:
 
 ```{r}
-table <- read.csv(file = "data-raw/mgharvey-tyranni-f73aa7f/Species_name_map_uids.csv")
+data_table <- read.csv(file = "../data-raw/mgharvey-tyranni-f73aa7f/Species_name_map_uids.csv")
 
-head(table, 10)
-ls(table)
-class(table)
+head(data_table, 10)
+ls(data_table)
+class(data_table)
 ```
 
 Now, we can create a vector of scientific species names that are suitable for TNRS matching.
 To save on computing time, let's use the `unique` function to eliminate duplicated scientific names and leave just one copy per name:
 
 ```{r}
-length(table$matrix.species)
-adjusted_labels <- unique(table$matrix.species)
+length(data_table$matrix.species)
+adjusted_labels <- unique(data_table$matrix.species)
 head(adjusted_labels, 10)
 length(adjusted_labels)
 ```
+Let's check for NA's and remove them:
 
+```{r}
+any(is.na(adjusted_labels))
+index_na <- which(is.na(adjusted_labels))
+adjusted_labels <- adjusted_labels[-index_na]
+```
 
 For the sake of reproducibility, write down the names as a ".txt" file that can be read back into R using `read.csv`:
 
-```{r}
+```{r, eval = FALSE}
 
 write(adjusted_labels, file = "../data-raw/harvey2020scientific_names.txt")
 
@@ -74,7 +78,10 @@ adjusted_labels  <-  read.csv(file = "../data-raw/harvey2020scientific_names.txt
 Now, perform a TNRS match on the vector of unique scientific names with the `tnrs_match_names` function from the `rotl` package:
 
 ```{r}
-matched_labels  <-  sapply(adjusted_labels, rotl::tnrs_match_names)
+matched_labels  <-  sapply(adjusted_labels, function(x){
+  write(x, file = "../data-raw/test.txt", append = TRUE)
+  rotl::tnrs_match_names(names = x)}
+  )
 head(matched_labels, 10)
 ```
 
@@ -82,7 +89,7 @@ Now, we need to extract the OTT ids that resulted from the TNRS match.
 First, match the original vector of tip taxon names with results from the TNRS match:
 
 ```{r}
-index <- match(table$matrix.species, names(matched_labels["ott_id",]))
+index <- match(data_table$matrix.species, names(matched_labels["ott_id",]))
 head(index, 10)
 ```
 
@@ -96,12 +103,12 @@ head(ott, 10)
 Finally, create a data frame containing the necessary information for OpenTree's importing nameset tool, and write it as csv file:
 
 ```{r, eval=FALSE}
-results <- data.frame(original = original_labels, adjusted = table$matrix.species, ott_id = ott)
+results <- data.frame(original = original_labels, adjusted = data_table$matrix.species, ott_id = ott)
 
 write.csv(results, file = "../data-raw/harvey2020nameset.csv)
 ```
 
 
-# Creating a json file 
+## Creating a json file 
 
 
