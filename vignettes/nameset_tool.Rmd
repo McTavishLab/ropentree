@@ -36,7 +36,7 @@ original_labels <- phy$tip.label
 head(original_labels, 10)
 ```
 
-In this particular case, tip taxon labels are not suitable for mapping because the scientific names are cut off (e.g. Homo_sapiens is Hom_sap_000).
+In this particular case, tip taxon labels are not suitable for mapping because the scientific names are cut off (e.g. _Gallus gallus_ is "Gallus_L36208").
 So, we will need to link the tip taxon labels with the complete scientific name, as provided on a supplementary data table from the original publication.
 
 To do this, first read the supplementary data table file linking tip taxon labels with the complete scientific taxon names using the `read.csv` function:
@@ -66,6 +66,13 @@ index_na <- which(is.na(adjusted_labels))
 adjusted_labels <- adjusted_labels[-index_na]
 ```
 
+Let's also remove some unwanted backslash characters using the function `gsub`:
+
+```{r}
+adjusted_labels <- gsub("\\\\", "", adjusted_labels)
+
+```
+
 For the sake of reproducibility, write down the names as a ".txt" file that can be read back into R using `read.csv`:
 
 ```{r, eval = FALSE}
@@ -82,7 +89,7 @@ matched_labels  <-  sapply(adjusted_labels, function(x){
   write(x, file = "../data-raw/test.txt", append = TRUE)
   rotl::tnrs_match_names(names = x)}
   )
-head(matched_labels, 10)
+str(matched_labels)
 ```
 
 Now, we need to extract the OTT ids that resulted from the TNRS match.
