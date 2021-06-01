@@ -1,5 +1,5 @@
 ---
-title: "nameset_tool"
+title: "Creating a file of a pre-mapped nameset for OpenTree's import nameset tool"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{nameset_tool}
@@ -18,60 +18,88 @@ knitr::opts_chunk$set(
 library(ropentree)
 ```
 
-# creating a CSV file for importing pre-mapped names
+# Creating a CSV file of a pre-mapped nameset
 
-## read the tree in
+If your taxon names are on a newick tree file, read the tree into R with the `read.tree` function from the `ape` package. This will create a `phylo` object:
+
+```{r}
 phy <- ape::read.tree(file="data-raw/mgharvey-tyranni-f73aa7f/species_trees/final_timetrees/T400F_complete.tre")
 
 ls(phy)
 str(phy)
 phy$edge
+```
 
-## create a vector of tree tip labels
+Now, create a vector of original tip taxon labels
+
+```{r}
 original_labels <- phy$tip.label
 
-head(original_labels)
+head(original_labels, 10)
+```
 
-## get labels suitable for OTU mapping
+In this particular case, tip taxon labels are not suitable for mapping because the scientific names are cut off (e.g. Homo_sapiens is Hom_sap_000).
+So, we will need to link the tip taxon labels with the complete scientific name, as provided on a supplementary table from the original publication.
 
-### read the csv file linking tree tip labels with scientific taxon names
+To do this, first read the csv file linking tip taxon labels with the complete scientific taxon names using the `read.csv` function:
 
+```{r}
 table <- read.csv(file = "data-raw/mgharvey-tyranni-f73aa7f/Species_name_map_uids.csv")
 
-head(table)
+head(table, 10)
 ls(table)
 class(table)
+```
 
-# create a vector of scientific species names useful for TNRS matching
+Now, we can create a vector of scientific species names that are suitable for TNRS matching.
+To save on computing time, let's use the `unique` function to eliminate duplicated scientific names and leave just one copy per name:
 
+```{r}
+length(table$matrix.species)
 adjusted_labels <- unique(table$matrix.species)
-head(adjusted_labels)
+head(adjusted_labels, 10)
+length(adjusted_labels)
+```
+
+
+For the sake of reproducibility, write down the names as a ".txt" file that can be read back into R using `read.csv`:
+
+```{r}
+
 write(adjusted_labels, file = "../data-raw/harvey2020scientific_names.txt")
 
 adjusted_labels  <-  read.csv(file = "../data-raw/harvey2020scientific_names.txt", header = FALSE)[,1]
+```
 
-# Performs a TNRS match
+Now, perform a TNRS match on the vector of unique scientific names with the `tnrs_match_names` function from the `rotl` package:
 
+```{r}
 matched_labels  <-  sapply(adjusted_labels, rotl::tnrs_match_names)
+head(matched_labels, 10)
+```
 
-head(matched_labels)
+Now, we need to extract the OTT ids that resulted from the TNRS match.
+First, match the original vector of tip taxon names with results from the TNRS match:
 
-# Get the ott ids
-
-First, match the vector of species names with tnrs results
-
+```{r}
 index <- match(table$matrix.species, names(matched_labels["ott_id",]))
+head(index, 10)
+```
 
-Get a vector of OTT ids in the correct order
+This will allow you to create a vector of OTT ids that correspond to the original tip taxon labels: 
 
+```{r}
 ott <- unlist(matched_labels["ott_id",][index])
+head(ott, 10)
+```
 
-# Create a data frame and write it as csv
+Finally, create a data frame containing the necessary information for OpenTree's importing nameset tool, and write it as csv file:
 
+```{r, eval=FALSE}
 results <- data.frame(original = original_labels, adjusted = table$matrix.species, ott_id = ott)
 
 write.csv(results, file = "../data-raw/harvey2020nameset.csv)
-
+```
 
 
 # Creating a json file 
