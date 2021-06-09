@@ -1,0 +1,868 @@
+"","name","taxonKey","familyKey","genusKey","acceptedScientificName","order","family","genus","decimalLongitude","decimalLatitude","elevation"
+"1","Achillea latiloba",3120134,3065,3119995,"Achillea latiloba Ledeb. ex Nordm.","Asterales","Asteraceae","Achillea",40.72,40.65,2070
+"2","Achillea latiloba",3120134,3065,3119995,"Achillea latiloba Ledeb. ex Nordm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"3","Achillea latiloba",3120134,3065,3119995,"Achillea latiloba Ledeb. ex Nordm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"4","Achillea latiloba",3120134,3065,3119995,"Achillea latiloba Ledeb. ex Nordm.","Asterales","Asteraceae","Achillea",NA,NA,2800
+"5","Achillea latiloba",3120134,3065,3119995,"Achillea latiloba Ledeb. ex Nordm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"6","Achillea membranacea",3120213,3065,3119995,"Achillea membranacea (Labill.) DC.","Asterales","Asteraceae","Achillea",NA,NA,560
+"7","Achillea membranacea",3120213,3065,3119995,"Achillea membranacea (Labill.) DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"8","Achillea membranacea",3120213,3065,3119995,"Achillea membranacea (Labill.) DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"9","Achillea membranacea",3120213,3065,3119995,"Achillea membranacea (Labill.) DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"10","Achillea membranacea",3120213,3065,3119995,"Achillea membranacea (Labill.) DC.","Asterales","Asteraceae","Achillea",NA,NA,560
+"11","Achillea pseudoaleppica",3120402,3065,3119995,"Achillea pseudoaleppica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,600
+"12","Achillea pseudoaleppica",3120402,3065,3119995,"Achillea pseudoaleppica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,1300
+"13","Achillea pseudoaleppica",3120402,3065,3119995,"Achillea pseudoaleppica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,1000
+"14","Achillea pseudoaleppica",3120402,3065,3119995,"Achillea pseudoaleppica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,910
+"15","Achillea pseudoaleppica",3120402,3065,3119995,"Achillea pseudoaleppica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,1036
+"16","Achillea formosa subsp. formosa",3120306,3065,3119995,"Achillea formosa subsp. formosa","Asterales","Asteraceae","Achillea",NA,NA,12500
+"17","Achillea formosa subsp. formosa",3120306,3065,3119995,"Achillea formosa subsp. formosa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"18","Achillea formosa subsp. formosa",3120306,3065,3119995,"Achillea formosa subsp. formosa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"19","Achillea formosa subsp. formosa",3120306,3065,3119995,"Achillea formosa subsp. formosa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"20","Achillea formosa subsp. formosa",3120306,3065,3119995,"Achillea formosa subsp. formosa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"21","Achillea millefolium var. lanulosa",4215571,3065,3119995,"Achillea millefolium var. occidentalis DC.","Asterales","Asteraceae","Achillea",-117.1705,46.745,NA
+"22","Achillea millefolium var. lanulosa",4215571,3065,3119995,"Achillea millefolium var. occidentalis DC.","Asterales","Asteraceae","Achillea",-105.285946,39.992416,NA
+"23","Achillea millefolium var. lanulosa",4215571,3065,3119995,"Achillea millefolium var. occidentalis DC.","Asterales","Asteraceae","Achillea",-105.276547,39.920752,NA
+"24","Achillea millefolium var. lanulosa",4215571,3065,3119995,"Achillea millefolium var. occidentalis DC.","Asterales","Asteraceae","Achillea",-105.351483,40.223786,NA
+"25","Achillea millefolium var. lanulosa",4215571,3065,3119995,"Achillea millefolium var. occidentalis DC.","Asterales","Asteraceae","Achillea",-105.276547,39.920752,NA
+"26","Achillea millefolium var. borealis",6303257,3065,3119995,"Achillea millefolium var. borealis (Bong.) Farw.","Asterales","Asteraceae","Achillea",-97.27219,49.88861,NA
+"27","Achillea millefolium var. borealis",6303257,3065,3119995,"Achillea millefolium var. borealis (Bong.) Farw.","Asterales","Asteraceae","Achillea",-113.906026,50.940787,NA
+"28","Achillea millefolium var. borealis",6303257,3065,3119995,"Achillea millefolium var. borealis (Bong.) Farw.","Asterales","Asteraceae","Achillea",-114.872841,51.05193,NA
+"29","Achillea millefolium var. borealis",6303257,3065,3119995,"Achillea millefolium var. borealis (Bong.) Farw.","Asterales","Asteraceae","Achillea",-79.187649,36.039993,NA
+"30","Achillea millefolium var. borealis",6303257,3065,3119995,"Achillea millefolium var. borealis (Bong.) Farw.","Asterales","Asteraceae","Achillea",-79.20565,36.026882,NA
+"31","Achillea millefolium var. arenicola",4215655,3065,3119995,"Achillea millefolium var. arenicola (A.Heller) Nobs","Asterales","Asteraceae","Achillea",-124.096452,41.270135,NA
+"32","Achillea millefolium var. arenicola",4215655,3065,3119995,"Achillea millefolium var. arenicola (A.Heller) Nobs","Asterales","Asteraceae","Achillea",-124.164861,40.857841,NA
+"33","Achillea millefolium var. arenicola",4215655,3065,3119995,"Achillea millefolium var. arenicola (A.Heller) Nobs","Asterales","Asteraceae","Achillea",-122.175755,37.307609,NA
+"34","Achillea millefolium var. arenicola",4215655,3065,3119995,"Achillea millefolium var. arenicola (A.Heller) Nobs","Asterales","Asteraceae","Achillea",-122.493842,37.620383,NA
+"35","Achillea millefolium var. arenicola",4215655,3065,3119995,"Achillea millefolium var. arenicola (A.Heller) Nobs","Asterales","Asteraceae","Achillea",-122.395325,37.448657,NA
+"36","Achillea millefolium var. gigantea",7789622,3065,3119995,"Achillea millefolium var. gigantea (Pollard) Nobs","Asterales","Asteraceae","Achillea",NA,NA,NA
+"37","Achillea millefolium var. gigantea",7789622,3065,3119995,"Achillea millefolium var. gigantea (Pollard) Nobs","Asterales","Asteraceae","Achillea",NA,NA,NA
+"38","Achillea millefolium var. gigantea",7789622,3065,3119995,"Achillea millefolium var. gigantea (Pollard) Nobs","Asterales","Asteraceae","Achillea",NA,NA,91
+"39","Achillea millefolium var. gigantea",3120113,3065,3119995,"Achillea millefolium var. gigantea (Pollard) Nobs","Asterales","Asteraceae","Achillea",NA,NA,NA
+"40","Achillea millefolium var. gigantea",7789622,3065,3119995,"Achillea millefolium var. gigantea (Pollard) Nobs","Asterales","Asteraceae","Achillea",NA,NA,NA
+"41","Achillea millefolium var. litoralis",4215566,3065,3119995,"Achillea millefolium var. litoralis Ehrend. ex Nobs","Asterales","Asteraceae","Achillea",-74.804036,39.116644,NA
+"42","Achillea millefolium var. millefolium",4274084,3065,3119995,"Achillea millefolium var. millefolium","Asterales","Asteraceae","Achillea",10.647767,59.473008,NA
+"43","Achillea millefolium var. millefolium",4274084,3065,3119995,"Achillea millefolium var. millefolium","Asterales","Asteraceae","Achillea",11.091472,59.388776,NA
+"44","Achillea millefolium var. millefolium",4274084,3065,3119995,"Achillea millefolium var. millefolium","Asterales","Asteraceae","Achillea",10.652762,59.409084,NA
+"45","Achillea millefolium var. millefolium",4274084,3065,3119995,"Achillea millefolium var. millefolium","Asterales","Asteraceae","Achillea",11.088687,59.506588,NA
+"46","Achillea millefolium var. millefolium",4274084,3065,3119995,"Achillea millefolium var. millefolium","Asterales","Asteraceae","Achillea",10.777933,59.434027,NA
+"47","Achillea millefolium var. pacifica",4215530,3065,3119995,"Achillea millefolium var. pacifica (Rydb.) G.N.Jones","Asterales","Asteraceae","Achillea",-118.99913,34.79254,1805
+"48","Achillea millefolium var. pacifica",4215530,3065,3119995,"Achillea millefolium var. pacifica (Rydb.) G.N.Jones","Asterales","Asteraceae","Achillea",-123.2,49.3,NA
+"49","Achillea millefolium var. pacifica",4215530,3065,3119995,"Achillea millefolium var. pacifica (Rydb.) G.N.Jones","Asterales","Asteraceae","Achillea",-130.002222,55.934722,2
+"50","Achillea millefolium var. pacifica",4215530,3065,3119995,"Achillea millefolium var. pacifica (Rydb.) G.N.Jones","Asterales","Asteraceae","Achillea",-129.971944,53.869444,2
+"51","Achillea millefolium var. pacifica",4215530,3065,3119995,"Achillea millefolium var. pacifica (Rydb.) G.N.Jones","Asterales","Asteraceae","Achillea",-131.166667,57.9,215
+"52","Achillea millefolium var. puberula",3120103,3065,3119995,"Achillea millefolium var. puberula (Rydb.) Nobs","Asterales","Asteraceae","Achillea",-122.440303,37.764144,NA
+"53","Achillea millefolium var. puberula",3120103,3065,3119995,"Achillea millefolium var. puberula (Rydb.) Nobs","Asterales","Asteraceae","Achillea",-122.066187,38.176176,NA
+"54","Achillea millefolium var. puberula",4215518,3065,3119995,"Achillea millefolium var. puberula (Rydb.) Nobs","Asterales","Asteraceae","Achillea",NA,NA,NA
+"55","Achillea millefolium var. puberula",4215518,3065,3119995,"Achillea millefolium var. puberula (Rydb.) Nobs","Asterales","Asteraceae","Achillea",NA,NA,NA
+"56","Achillea millefolium var. puberula",3120103,3065,3119995,"Achillea millefolium var. puberula (Rydb.) Nobs","Asterales","Asteraceae","Achillea",NA,NA,1
+"57","Achillea millefolium var. alpicola",4215664,3065,3119995,"Achillea millefolium var. alpicola (Rydb.) Garrett","Asterales","Asteraceae","Achillea",-118.865708,36.466172,NA
+"58","Achillea millefolium var. alpicola",4215664,3065,3119995,"Achillea millefolium var. alpicola (Rydb.) Garrett","Asterales","Asteraceae","Achillea",-106.865209,37.531008,NA
+"59","Achillea millefolium var. alpicola",4215664,3065,3119995,"Achillea millefolium var. alpicola (Rydb.) Garrett","Asterales","Asteraceae","Achillea",-111.495555,39.132778,2998
+"60","Achillea millefolium var. alpicola",4215664,3065,3119995,"Achillea millefolium var. alpicola (Rydb.) Garrett","Asterales","Asteraceae","Achillea",-105.688542,40.392272,NA
+"61","Achillea millefolium var. alpicola",4215664,3065,3119995,"Achillea millefolium var. alpicola (Rydb.) Garrett","Asterales","Asteraceae","Achillea",-105.688542,40.392272,NA
+"62","Achillea millefolium var. californica",4215622,3065,3119995,"Achillea millefolium var. californica (Pollard) Jeps.","Asterales","Asteraceae","Achillea",-122.065,36.95,NA
+"63","Achillea millefolium var. californica",4215622,3065,3119995,"Achillea millefolium var. californica (Pollard) Jeps.","Asterales","Asteraceae","Achillea",-122.065,36.95,NA
+"64","Achillea millefolium var. californica",4215622,3065,3119995,"Achillea millefolium var. californica (Pollard) Jeps.","Asterales","Asteraceae","Achillea",-121.826267,37.175295,NA
+"65","Achillea millefolium var. californica",4215622,3065,3119995,"Achillea millefolium var. californica (Pollard) Jeps.","Asterales","Asteraceae","Achillea",-120.059162,34.744504,NA
+"66","Achillea millefolium var. californica",4215622,3065,3119995,"Achillea millefolium var. californica (Pollard) Jeps.","Asterales","Asteraceae","Achillea",-123.408088,48.89793,NA
+"67","Achillea millefolium subsp. ceretanica",4215619,3065,3119995,"Achillea millefolium subsp. ceretanica (Sennen) Sennen","Asterales","Asteraceae","Achillea",7.435204,47.946995,NA
+"68","Achillea millefolium subsp. ceretanica",4215619,3065,3119995,"Achillea millefolium subsp. ceretanica (Sennen) Sennen","Asterales","Asteraceae","Achillea",1.5661,42.5178,NA
+"69","Achillea millefolium subsp. ceretanica",4215619,3065,3119995,"Achillea millefolium subsp. ceretanica (Sennen) Sennen","Asterales","Asteraceae","Achillea",1.6972,42.5506,NA
+"70","Achillea millefolium subsp. ceretanica",4215619,3065,3119995,"Achillea millefolium subsp. ceretanica (Sennen) Sennen","Asterales","Asteraceae","Achillea",1.97,42.49,1200
+"71","Achillea millefolium subsp. ceretanica",4215619,3065,3119995,"Achillea millefolium subsp. ceretanica (Sennen) Sennen","Asterales","Asteraceae","Achillea",1.96886841109601,42.4889211060115,NA
+"72","Achillea millefolium subsp. sudetica",7459490,3065,3119995,"Achillea millefolium subsp. sudetica (Opiz) Oborny","Asterales","Asteraceae","Achillea",23.75349,67.012416,NA
+"73","Achillea millefolium subsp. sudetica",7459490,3065,3119995,"Achillea millefolium subsp. sudetica (Opiz) Oborny","Asterales","Asteraceae","Achillea",23.142153,68.154697,NA
+"74","Achillea millefolium subsp. sudetica",5831374,3065,3119995,"Achillea millefolium subsp. sudetica (Opiz) Oborny","Asterales","Asteraceae","Achillea",12.25,47.01,NA
+"75","Achillea millefolium subsp. sudetica",5831374,3065,3119995,"Achillea millefolium subsp. sudetica (Opiz) Oborny","Asterales","Asteraceae","Achillea",12.73,47.18,NA
+"76","Achillea millefolium subsp. sudetica",5831374,3065,3119995,"Achillea millefolium subsp. sudetica (Opiz) Oborny","Asterales","Asteraceae","Achillea",12.36,47,NA
+"77","Achillea sergievskiana",3120234,3065,3119995,"Achillea sergievskiana Shaulo & Shmakov","Asterales","Asteraceae","Achillea",91.280683,49.656133,NA
+"78","Achillea sergievskiana",3120234,3065,3119995,"Achillea sergievskiana Shaulo & Shmakov","Asterales","Asteraceae","Achillea",87.6333,50.5,NA
+"79","Achillea sergievskiana",3120234,3065,3119995,"Achillea sergievskiana Shaulo & Shmakov","Asterales","Asteraceae","Achillea",NA,NA,NA
+"80","Achillea sergievskiana",3120234,3065,3119995,"Achillea sergievskiana Shaulo & Shmakov","Asterales","Asteraceae","Achillea",117.25,42.43,NA
+"81","Achillea sergievskiana",3120234,3065,3119995,"Achillea sergievskiana Shaulo & Shmakov","Asterales","Asteraceae","Achillea",117.25,42.43,NA
+"82","Achillea inundata",3120167,3065,3119995,"Achillea inundata Kondrat.","Asterales","Asteraceae","Achillea",35.355254,45.045625,NA
+"83","Achillea inundata",3120167,3065,3119995,"Achillea inundata Kondrat.","Asterales","Asteraceae","Achillea",86.4991,55.6506,NA
+"84","Achillea inundata",3120167,3065,3119995,"Achillea inundata Kondrat.","Asterales","Asteraceae","Achillea",49.12567,53.17601,NA
+"85","Achillea inundata",3120167,3065,3119995,"Achillea inundata Kondrat.","Asterales","Asteraceae","Achillea",48.60011,53.00319,NA
+"86","Achillea inundata",3120167,3065,3119995,"Achillea inundata Kondrat.","Asterales","Asteraceae","Achillea",35.976456,46.665756,NA
+"87","Achillea apiculata",3120152,3065,3119995,"Achillea apiculata Orlova","Asterales","Asteraceae","Achillea",34.370846,66.691695,NA
+"88","Achillea apiculata",3120152,3065,3119995,"Achillea apiculata Orlova","Asterales","Asteraceae","Achillea",34.33688,66.675308,NA
+"89","Achillea apiculata",3120152,3065,3119995,"Achillea apiculata Orlova","Asterales","Asteraceae","Achillea",32.023751,69.922264,NA
+"90","Achillea apiculata",3120152,3065,3119995,"Achillea apiculata Orlova","Asterales","Asteraceae","Achillea",31.971083,69.940212,NA
+"91","Achillea apiculata",3120152,3065,3119995,"Achillea apiculata Orlova","Asterales","Asteraceae","Achillea",32.862392,66.69901,NA
+"92","Achillea euxina",3120262,3065,3119995,"Achillea euxina Klokov","Asterales","Asteraceae","Achillea",32.811038,46.405538,NA
+"93","Achillea euxina",3120262,3065,3119995,"Achillea euxina Klokov","Asterales","Asteraceae","Achillea",32.810497,46.406237,NA
+"94","Achillea euxina",3120262,3065,3119995,"Achillea euxina Klokov","Asterales","Asteraceae","Achillea",32.818964,46.409613,NA
+"95","Achillea euxina",3120262,3065,3119995,"Achillea euxina Klokov","Asterales","Asteraceae","Achillea",33.208339,46.853021,NA
+"96","Achillea euxina",3120262,3065,3119995,"Achillea euxina Klokov","Asterales","Asteraceae","Achillea",32.683129,46.538801,NA
+"97","Achillea collina",4933736,3065,3119995,"Achillea collina (Wirtg.) Becker ex Rchb.","Asterales","Asteraceae","Achillea",16.295001,48.266419,NA
+"98","Achillea collina",4933736,3065,3119995,"Achillea collina (Wirtg.) Becker ex Rchb.","Asterales","Asteraceae","Achillea",9.432475,45.415604,NA
+"99","Achillea collina",7925124,3065,3119995,"Achillea collina (Wirtg.) Becker ex Rchb.","Asterales","Asteraceae","Achillea",15.89,48.55,NA
+"100","Achillea collina",7925124,3065,3119995,"Achillea collina (Wirtg.) Becker ex Rchb.","Asterales","Asteraceae","Achillea",7.99068,46.34255,711
+"101","Achillea collina",7925124,3065,3119995,"Achillea collina (Wirtg.) Becker ex Rchb.","Asterales","Asteraceae","Achillea",6.88615,46.38751,372
+"102","Achillea distans",3120264,3065,3119995,"Achillea distans Waldst. & Kit. ex Willd.","Asterales","Asteraceae","Achillea",144.02425,-37.365722,NA
+"103","Achillea distans",3120264,3065,3119995,"Achillea distans Waldst. & Kit. ex Willd.","Asterales","Asteraceae","Achillea",144.02425,-37.365722,NA
+"104","Achillea distans",4214515,3065,3119995,"Achillea distans subsp. stricta (Schleich. ex Gremli) Janch.","Asterales","Asteraceae","Achillea",9.08228,45.92708,1133
+"105","Achillea distans",3120264,3065,3119995,"Achillea distans Waldst. & Kit. ex Willd.","Asterales","Asteraceae","Achillea",11.082539,47.304092,NA
+"106","Achillea distans",3120264,3065,3119995,"Achillea distans Waldst. & Kit. ex Willd.","Asterales","Asteraceae","Achillea",2.641705,47.039223,NA
+"107","Achillea pratensis",3120104,3065,3119995,"Achillea pratensis Saukel & R.Länger","Asterales","Asteraceae","Achillea",15.415,47.06889,360
+"108","Achillea pratensis",3120104,3065,3119995,"Achillea pratensis Saukel & R.Länger","Asterales","Asteraceae","Achillea",9.10834,46.78147,1136
+"109","Achillea pratensis",3120104,3065,3119995,"Achillea pratensis Saukel & R.Länger","Asterales","Asteraceae","Achillea",15.40583,47.08778,370
+"110","Achillea pratensis",3120104,3065,3119995,"Achillea pratensis Saukel & R.Länger","Asterales","Asteraceae","Achillea",8.32938,47.195,705.5
+"111","Achillea pratensis",3120104,3065,3119995,"Achillea pratensis Saukel & R.Länger","Asterales","Asteraceae","Achillea",7.782279,48.437744,NA
+"112","Achillea cuspidata",3120073,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",NA,NA,1828.5
+"113","Achillea cuspidata",3120073,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",NA,NA,1447.5
+"114","Achillea cuspidata",3120073,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",NA,NA,NA
+"115","Achillea cuspidata",3120073,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",NA,NA,NA
+"116","Achillea cuspidata",3120073,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",NA,NA,NA
+"117","Achillea aspleniifolia",3120141,3065,3119995,"Achillea ×obscura Nees","Asterales","Asteraceae","Achillea",16.391075,47.987784,NA
+"118","Achillea aspleniifolia",3120141,3065,3119995,"Achillea ×obscura Nees","Asterales","Asteraceae","Achillea",16.750847,47.7616,NA
+"119","Achillea aspleniifolia",3120141,3065,3119995,"Achillea ×obscura Nees","Asterales","Asteraceae","Achillea",16.440909,48.007011,NA
+"120","Achillea aspleniifolia",3120141,3065,3119995,"Achillea ×obscura Nees","Asterales","Asteraceae","Achillea",16.768755,47.780526,NA
+"121","Achillea aspleniifolia",3120141,3065,3119995,"Achillea ×obscura Nees","Asterales","Asteraceae","Achillea",NA,NA,NA
+"122","Achillea setacea",3120066,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",33.534432,44.607935,NA
+"123","Achillea setacea",3120066,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",34.334814,44.737478,NA
+"124","Achillea setacea",3120066,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",34.308731,44.85205,NA
+"125","Achillea setacea",3120066,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",34.609881,44.982239,NA
+"126","Achillea setacea",3120066,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",34.426292,44.762364,NA
+"127","Achillea styriaca",3120140,3065,3119995,"Achillea styriaca Saukel & Danihelka","Asterales","Asteraceae","Achillea",14.91639,47.28444,NA
+"128","Achillea styriaca",3120140,3065,3119995,"Achillea styriaca Saukel & Danihelka","Asterales","Asteraceae","Achillea",14.91639,47.28444,NA
+"129","Achillea styriaca",3120140,3065,3119995,"Achillea styriaca Saukel & Danihelka","Asterales","Asteraceae","Achillea",15.44206,47.07464,375
+"130","Achillea styriaca",3120140,3065,3119995,"Achillea styriaca Saukel & Danihelka","Asterales","Asteraceae","Achillea",14.36842,49.724,370
+"131","Achillea styriaca",3120140,3065,3119995,"Achillea styriaca Saukel & Danihelka","Asterales","Asteraceae","Achillea",14.93444,47.29778,710
+"132","Achillea roseoalba",4214893,3065,3119995,"Achillea roseoalba Ehrend.","Asterales","Asteraceae","Achillea",6.88661,46.34254,379.5
+"133","Achillea roseoalba",4214893,3065,3119995,"Achillea roseoalba Ehrend.","Asterales","Asteraceae","Achillea",9.51666,47.17969,441
+"134","Achillea roseoalba",4214893,3065,3119995,"Achillea roseoalba Ehrend.","Asterales","Asteraceae","Achillea",7.53687,46.79362,587.5
+"135","Achillea roseoalba",4214893,3065,3119995,"Achillea roseoalba Ehrend.","Asterales","Asteraceae","Achillea",9.50969,46.99985,615
+"136","Achillea roseoalba",4214893,3065,3119995,"Achillea roseoalba Ehrend.","Asterales","Asteraceae","Achillea",9.01525,45.83807,263
+"137","Achillea tenuifolia",7546541,3065,3119995,"Achillea tenuifolia Lam.","Asterales","Asteraceae","Achillea",34.874265,31.303429,NA
+"138","Achillea tenuifolia",7546541,3065,3119995,"Achillea tenuifolia Lam.","Asterales","Asteraceae","Achillea",35.127232,31.273712,NA
+"139","Achillea tenuifolia",7546541,3065,3119995,"Achillea tenuifolia Lam.","Asterales","Asteraceae","Achillea",35.111872,31.321123,NA
+"140","Achillea tenuifolia",7546541,3065,3119995,"Achillea tenuifolia Lam.","Asterales","Asteraceae","Achillea",34.708724,31.352438,NA
+"141","Achillea tenuifolia",7546541,3065,3119995,"Achillea tenuifolia Lam.","Asterales","Asteraceae","Achillea",34.730487,31.314787,NA
+"142","Achillea vermicularis",3120049,3065,3119995,"Achillea vermicularis Trin.","Asterales","Asteraceae","Achillea",51.19194,36.14083,2850
+"143","Achillea vermicularis",3120049,3065,3119995,"Achillea vermicularis Trin.","Asterales","Asteraceae","Achillea",47.30028,36.66417,3225
+"144","Achillea vermicularis",3120049,3065,3119995,"Achillea vermicularis Trin.","Asterales","Asteraceae","Achillea",47.59972,37.7425,2900
+"145","Achillea vermicularis",3120049,3065,3119995,"Achillea vermicularis Trin.","Asterales","Asteraceae","Achillea",47.68722,37.76833,2600
+"146","Achillea vermicularis",3120049,3065,3119995,"Achillea vermicularis Trin.","Asterales","Asteraceae","Achillea",46.13395,39.10955,NA
+"147","Achillea ptarmica",3120333,3065,3119995,"Achillea ptarmica L.","Asterales","Asteraceae","Achillea",16.796493,60.615497,NA
+"148","Achillea ptarmica",3120333,3065,3119995,"Achillea ptarmica L.","Asterales","Asteraceae","Achillea",22.253493,60.627488,NA
+"149","Achillea ptarmica",3120333,3065,3119995,"Achillea ptarmica L.","Asterales","Asteraceae","Achillea",11.057587,59.363681,NA
+"150","Achillea ptarmica",3120333,3065,3119995,"Achillea ptarmica L.","Asterales","Asteraceae","Achillea",5.436592,49.70856,NA
+"151","Achillea ptarmica",3120333,3065,3119995,"Achillea ptarmica L.","Asterales","Asteraceae","Achillea",6.1,49.98,NA
+"152","Achillea fragrantissima",3120394,3065,3119995,"Achillea fragrantissima (Forssk.) Sch.Bip.","Asterales","Asteraceae","Achillea",34.761984,30.622772,NA
+"153","Achillea fragrantissima",3120394,3065,3119995,"Achillea fragrantissima (Forssk.) Sch.Bip.","Asterales","Asteraceae","Achillea",34.742847,31.066446,NA
+"154","Achillea fragrantissima",3120394,3065,3119995,"Achillea fragrantissima (Forssk.) Sch.Bip.","Asterales","Asteraceae","Achillea",35.920462,31.500865,NA
+"155","Achillea fragrantissima",3120394,3065,3119995,"Achillea fragrantissima (Forssk.) Sch.Bip.","Asterales","Asteraceae","Achillea",35.920462,31.500865,NA
+"156","Achillea fragrantissima",3120394,3065,3119995,"Achillea fragrantissima (Forssk.) Sch.Bip.","Asterales","Asteraceae","Achillea",35.920467,31.500867,NA
+"157","Achillea grandifolia",3120279,3065,3119995,"Achillea grandifolia Friv.","Asterales","Asteraceae","Achillea",22.50139,37.292221,902
+"158","Achillea grandifolia",3120279,3065,3119995,"Achillea grandifolia Friv.","Asterales","Asteraceae","Achillea",22.529169,37.354721,932
+"159","Achillea grandifolia",3120279,3065,3119995,"Achillea grandifolia Friv.","Asterales","Asteraceae","Achillea",22.281389,37.079441,975
+"160","Achillea grandifolia",3120279,3065,3119995,"Achillea grandifolia Friv.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"161","Achillea grandifolia",3120279,3065,3119995,"Achillea grandifolia Friv.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"162","Achillea erba-rotta",4216472,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",8.31611,46.38548,2247.5
+"163","Achillea erba-rotta",4216472,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",8.96342,46.28864,2155
+"164","Achillea erba-rotta",4216472,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",9.03092,46.37769,2240
+"165","Achillea erba-rotta",7574220,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",8.716739,46.547725,NA
+"166","Achillea erba-rotta",7574220,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",8.716994,46.552014,NA
+"167","Achillea filipendulina",3120284,3065,3119995,"Achillea filipendulina Lam.","Asterales","Asteraceae","Achillea",17.642346,59.814926,NA
+"168","Achillea filipendulina",3120284,3065,3119995,"Achillea filipendulina Lam.","Asterales","Asteraceae","Achillea",-3.783627,40.662945,NA
+"169","Achillea filipendulina",3120284,3065,3119995,"Achillea filipendulina Lam.","Asterales","Asteraceae","Achillea",-3.833522,40.668797,NA
+"170","Achillea filipendulina",3120284,3065,3119995,"Achillea filipendulina Lam.","Asterales","Asteraceae","Achillea",-3.694534,40.597843,NA
+"171","Achillea filipendulina",3120284,3065,3119995,"Achillea filipendulina Lam.","Asterales","Asteraceae","Achillea",-3.723168,40.603026,NA
+"172","Achillea fraasii",3120317,3065,3119995,"Achillea fraasii Sch.Bip.","Asterales","Asteraceae","Achillea",21.898589,38.681177,NA
+"173","Achillea fraasii",3120317,3065,3119995,"Achillea fraasii Sch.Bip.","Asterales","Asteraceae","Achillea",20.31556,40.18722,1974
+"174","Achillea fraasii",3120317,3065,3119995,"Achillea fraasii Sch.Bip.","Asterales","Asteraceae","Achillea",22.18,37.99,1800
+"175","Achillea fraasii",3120317,3065,3119995,"Achillea fraasii Sch.Bip.","Asterales","Asteraceae","Achillea",21.12,39.68,2290
+"176","Achillea fraasii",3120317,3065,3119995,"Achillea fraasii Sch.Bip.","Asterales","Asteraceae","Achillea",21.09,39.69,1592
+"177","Achillea cretica",3120369,3065,3119995,"Achillea cretica L.","Asterales","Asteraceae","Achillea",28.214749,36.44528,NA
+"178","Achillea cretica",3120369,3065,3119995,"Achillea cretica L.","Asterales","Asteraceae","Achillea",24.177099,35.5597,NA
+"179","Achillea cretica",3120369,3065,3119995,"Achillea cretica L.","Asterales","Asteraceae","Achillea",28.238519,36.378288,NA
+"180","Achillea cretica",3120369,3065,3119995,"Achillea cretica L.","Asterales","Asteraceae","Achillea",28.23971,36.384727,NA
+"181","Achillea cretica",3120369,3065,3119995,"Achillea cretica L.","Asterales","Asteraceae","Achillea",28.057576,36.219777,NA
+"182","Achillea leptophylla",7863079,3065,3119995,"Achillea leptophylla M.Bieb.","Asterales","Asteraceae","Achillea",36.423845,47.370813,NA
+"183","Achillea leptophylla",7863079,3065,3119995,"Achillea leptophylla M.Bieb.","Asterales","Asteraceae","Achillea",35.372976,46.56862,NA
+"184","Achillea leptophylla",7863079,3065,3119995,"Achillea leptophylla M.Bieb.","Asterales","Asteraceae","Achillea",45.206955,54.174131,NA
+"185","Achillea leptophylla",7863079,3065,3119995,"Achillea leptophylla M.Bieb.","Asterales","Asteraceae","Achillea",32.53365,45.34091,NA
+"186","Achillea leptophylla",7863079,3065,3119995,"Achillea leptophylla M.Bieb.","Asterales","Asteraceae","Achillea",32.501287,45.346266,NA
+"187","Achillea santolina",8091059,3065,3119995,"Achillea santolina Falk","Asterales","Asteraceae","Achillea",35.354849,31.576412,NA
+"188","Achillea santolina",8091059,3065,3119995,"Achillea santolina Falk","Asterales","Asteraceae","Achillea",34.57,31.34,NA
+"189","Achillea santolina",8091059,3065,3119995,"Achillea santolina Falk","Asterales","Asteraceae","Achillea",35.09,31.32,NA
+"190","Achillea santolina",8091059,3065,3119995,"Achillea santolina Falk","Asterales","Asteraceae","Achillea",34.441971,31.390248,NA
+"191","Achillea santolina",8091059,3065,3119995,"Achillea santolina Falk","Asterales","Asteraceae","Achillea",34.867739,31.398387,NA
+"192","Achillea acuminata",7914624,3065,3119995,"Achillea acuminata (Ledeb.) Sch.Bip.","Asterales","Asteraceae","Achillea",134.30256,46.463744,NA
+"193","Achillea acuminata",7914624,3065,3119995,"Achillea acuminata (Ledeb.) Sch.Bip.","Asterales","Asteraceae","Achillea",135.615595,44.166774,NA
+"194","Achillea acuminata",7914624,3065,3119995,"Achillea acuminata (Ledeb.) Sch.Bip.","Asterales","Asteraceae","Achillea",142.036705,47.63032,NA
+"195","Achillea acuminata",7914624,3065,3119995,"Achillea acuminata (Ledeb.) Sch.Bip.","Asterales","Asteraceae","Achillea",126.356991,53.109944,NA
+"196","Achillea acuminata",7914624,3065,3119995,"Achillea acuminata (Ledeb.) Sch.Bip.","Asterales","Asteraceae","Achillea",127.667755,50.019108,NA
+"197","Achillea ageratum",3120391,3065,3119995,"Achillea ageratum L.","Asterales","Asteraceae","Achillea",3.613858,43.741047,NA
+"198","Achillea ageratum",3120391,3065,3119995,"Achillea ageratum L.","Asterales","Asteraceae","Achillea",-8.251388,37.142285,NA
+"199","Achillea ageratum",3120391,3065,3119995,"Achillea ageratum L.","Asterales","Asteraceae","Achillea",-6.462695,37.470692,NA
+"200","Achillea ageratum",3120391,3065,3119995,"Achillea ageratum L.","Asterales","Asteraceae","Achillea",0.140425,41.615236,NA
+"201","Achillea ageratum",3120391,3065,3119995,"Achillea ageratum L.","Asterales","Asteraceae","Achillea",-9.290947,38.764477,NA
+"202","Achillea abrotanoides",3120350,3065,3119995,"Achillea abrotanoides (Vis.) Vis.","Asterales","Asteraceae","Achillea",18.833996,42.407684,NA
+"203","Achillea abrotanoides",3120350,3065,3119995,"Achillea abrotanoides (Vis.) Vis.","Asterales","Asteraceae","Achillea",19.037151,43.127739,NA
+"204","Achillea abrotanoides",3120350,3065,3119995,"Achillea abrotanoides (Vis.) Vis.","Asterales","Asteraceae","Achillea",18.693924,43.314999,NA
+"205","Achillea abrotanoides",3120350,3065,3119995,"Achillea abrotanoides (Vis.) Vis.","Asterales","Asteraceae","Achillea",19.770367,42.4366,NA
+"206","Achillea abrotanoides",3120350,3065,3119995,"Achillea abrotanoides (Vis.) Vis.","Asterales","Asteraceae","Achillea",20.64339,41.81694,1406
+"207","Achillea absinthoides",3120175,3065,3119995,"Achillea absinthoides Halácsy","Asterales","Asteraceae","Achillea",21.233333,39.483333,NA
+"208","Achillea absinthoides",3120175,3065,3119995,"Achillea absinthoides Halácsy","Asterales","Asteraceae","Achillea",21.233333,39.483333,NA
+"209","Achillea absinthoides",3120175,3065,3119995,"Achillea absinthoides Halácsy","Asterales","Asteraceae","Achillea",21.166667,39.416667,NA
+"210","Achillea absinthoides",3120175,3065,3119995,"Achillea absinthoides Halácsy","Asterales","Asteraceae","Achillea",21.166667,39.416667,NA
+"211","Achillea absinthoides",3120175,3065,3119995,"Achillea absinthoides Halácsy","Asterales","Asteraceae","Achillea",21.2,39.533333,NA
+"212","Achillea alpina",3120223,3065,3119995,"Achillea alpina L.","Asterales","Asteraceae","Achillea",-114.36567,62.467108,NA
+"213","Achillea alpina",3120223,3065,3119995,"Achillea alpina L.","Asterales","Asteraceae","Achillea",-114.241418,52.39232,NA
+"214","Achillea alpina",3120223,3065,3119995,"Achillea alpina L.","Asterales","Asteraceae","Achillea",-114.425963,62.418925,NA
+"215","Achillea alpina",3120223,3065,3119995,"Achillea alpina L.","Asterales","Asteraceae","Achillea",-113.785613,55.019703,NA
+"216","Achillea alpina",3120223,3065,3119995,"Achillea alpina L.","Asterales","Asteraceae","Achillea",-113.450072,55.581872,NA
+"217","Achillea asiatica",3120173,3065,3119995,"Achillea asiatica Serg.","Asterales","Asteraceae","Achillea",69.184848,61.040766,NA
+"218","Achillea asiatica",3120173,3065,3119995,"Achillea asiatica Serg.","Asterales","Asteraceae","Achillea",104.285583,52.250361,NA
+"219","Achillea asiatica",3120173,3065,3119995,"Achillea asiatica Serg.","Asterales","Asteraceae","Achillea",104.44104,52.230428,NA
+"220","Achillea asiatica",3120173,3065,3119995,"Achillea asiatica Serg.","Asterales","Asteraceae","Achillea",104.278556,52.253139,NA
+"221","Achillea asiatica",3120173,3065,3119995,"Achillea asiatica Serg.","Asterales","Asteraceae","Achillea",104.285651,52.264741,NA
+"222","Achillea virescens",3120197,3065,3119995,"Achillea virescens (Fenzl) Heimerl","Asterales","Asteraceae","Achillea",21.29667,41.95806,310
+"223","Achillea virescens",3120197,3065,3119995,"Achillea virescens (Fenzl) Heimerl","Asterales","Asteraceae","Achillea",13.63,45.14167,50
+"224","Achillea virescens",3120197,3065,3119995,"Achillea virescens (Fenzl) Heimerl","Asterales","Asteraceae","Achillea",NA,NA,NA
+"225","Achillea virescens",3120197,3065,3119995,"Achillea virescens (Fenzl) Heimerl","Asterales","Asteraceae","Achillea",13.91111,44.7725,NA
+"226","Achillea virescens",3120197,3065,3119995,"Achillea virescens (Fenzl) Heimerl","Asterales","Asteraceae","Achillea",18.40917,42.9575,NA
+"227","Achillea wilhelmsii",6063711,3065,3119995,"Achillea santolinoides subsp. wilhelmsii (K.Koch) Greuter","Asterales","Asteraceae","Achillea",67.3574,30.4579,6531
+"228","Achillea wilhelmsii",6063711,3065,3119995,"Achillea santolinoides subsp. wilhelmsii (K.Koch) Greuter","Asterales","Asteraceae","Achillea",67.4164,30.4517,7571
+"229","Achillea wilhelmsii",6063711,3065,3119995,"Achillea santolinoides subsp. wilhelmsii (K.Koch) Greuter","Asterales","Asteraceae","Achillea",NA,NA,NA
+"230","Achillea wilhelmsii",6063711,3065,3119995,"Achillea santolinoides subsp. wilhelmsii (K.Koch) Greuter","Asterales","Asteraceae","Achillea",67.816667,30.333333,2700
+"231","Achillea wilhelmsii",6063711,3065,3119995,"Achillea santolinoides subsp. wilhelmsii (K.Koch) Greuter","Asterales","Asteraceae","Achillea",33.4575,38.25056,NA
+"232","Achillea wilsoniana",9598742,3065,3119995,"Achillea wilsoniana (Heimerl ex Hand.-Mazz.) Heimerl","Asterales","Asteraceae","Achillea",99.7761,28.4092,NA
+"233","Achillea wilsoniana",9598742,3065,3119995,"Achillea wilsoniana (Heimerl ex Hand.-Mazz.) Heimerl","Asterales","Asteraceae","Achillea",99.706013,27.82308,NA
+"234","Achillea wilsoniana",9598742,3065,3119995,"Achillea wilsoniana (Heimerl ex Hand.-Mazz.) Heimerl","Asterales","Asteraceae","Achillea",105.6,33.32,NA
+"235","Achillea wilsoniana",9598742,3065,3119995,"Achillea wilsoniana (Heimerl ex Hand.-Mazz.) Heimerl","Asterales","Asteraceae","Achillea",109.62,31.37,NA
+"236","Achillea wilsoniana",9598742,3065,3119995,"Achillea wilsoniana (Heimerl ex Hand.-Mazz.) Heimerl","Asterales","Asteraceae","Achillea",109.62,31.37,NA
+"237","Achillea pindicola subsp. integrifolia",4215109,3065,3119995,"Achillea pindicola subsp. integrifolia (Halácsy) Franzén","Asterales","Asteraceae","Achillea",21.12,39.68,2290
+"238","Achillea pindicola subsp. integrifolia",4215109,3065,3119995,"Achillea pindicola subsp. integrifolia (Halácsy) Franzén","Asterales","Asteraceae","Achillea",21.15,39.616667,NA
+"239","Achillea pindicola subsp. integrifolia",4215109,3065,3119995,"Achillea pindicola subsp. integrifolia (Halácsy) Franzén","Asterales","Asteraceae","Achillea",21.2,39.533333,NA
+"240","Achillea pindicola subsp. integrifolia",4215109,3065,3119995,"Achillea pindicola subsp. integrifolia (Halácsy) Franzén","Asterales","Asteraceae","Achillea",21.15,39.616667,NA
+"241","Achillea pindicola subsp. integrifolia",4215109,3065,3119995,"Achillea pindicola subsp. integrifolia (Halácsy) Franzén","Asterales","Asteraceae","Achillea",21.2,39.533333,NA
+"242","Achillea pannonica",3120129,3065,3119995,"Achillea pannonica Scheele","Asterales","Asteraceae","Achillea",18.652033,52.988411,NA
+"243","Achillea pannonica",3120129,3065,3119995,"Achillea pannonica Scheele","Asterales","Asteraceae","Achillea",18.686441,53.006956,NA
+"244","Achillea pannonica",3120129,3065,3119995,"Achillea pannonica Scheele","Asterales","Asteraceae","Achillea",18.598543,53.008529,NA
+"245","Achillea pannonica",3120129,3065,3119995,"Achillea pannonica Scheele","Asterales","Asteraceae","Achillea",13.99722,50.3975,235
+"246","Achillea pannonica",3120129,3065,3119995,"Achillea pannonica Scheele","Asterales","Asteraceae","Achillea",15.68861,48.90389,385
+"247","Achillea ochroleuca",3120038,3065,3119995,"Achillea ochroleuca Ehrh.","Asterales","Asteraceae","Achillea",31.100298,47.889235,NA
+"248","Achillea ochroleuca",3120038,3065,3119995,"Achillea ochroleuca Ehrh.","Asterales","Asteraceae","Achillea",32.82944,46.71222,70
+"249","Achillea ochroleuca",3120038,3065,3119995,"Achillea ochroleuca Ehrh.","Asterales","Asteraceae","Achillea",32.82944,46.71222,70
+"250","Achillea ochroleuca",3120038,3065,3119995,"Achillea ochroleuca Ehrh.","Asterales","Asteraceae","Achillea",32.3749,47.79318,NA
+"251","Achillea ochroleuca",3120038,3065,3119995,"Achillea ochroleuca Ehrh.","Asterales","Asteraceae","Achillea",32.37268,47.79388,NA
+"252","Achillea oxyloba",3120192,3065,3119995,"Achillea oxyloba (DC.) Sch.Bip.","Asterales","Asteraceae","Achillea",11.719712,46.522302,NA
+"253","Achillea oxyloba",3120192,3065,3119995,"Achillea oxyloba (DC.) Sch.Bip.","Asterales","Asteraceae","Achillea",12.020033,46.50935,NA
+"254","Achillea oxyloba",3120192,3065,3119995,"Achillea oxyloba (DC.) Sch.Bip.","Asterales","Asteraceae","Achillea",12.025342,46.503448,NA
+"255","Achillea oxyloba",3120192,3065,3119995,"Achillea oxyloba (DC.) Sch.Bip.","Asterales","Asteraceae","Achillea",12.726892,46.625428,NA
+"256","Achillea oxyloba",3120192,3065,3119995,"Achillea oxyloba (DC.) Sch.Bip.","Asterales","Asteraceae","Achillea",12.063886,46.54173,NA
+"257","Achillea nana",8714852,3065,3119995,"Achillea nana L.","Asterales","Asteraceae","Achillea",7.79379,46.02849,3067.5
+"258","Achillea nana",8714852,3065,3119995,"Achillea nana L.","Asterales","Asteraceae","Achillea",8.12,46.29686,2462
+"259","Achillea nana",8714852,3065,3119995,"Achillea nana L.","Asterales","Asteraceae","Achillea",8.05562,46.34221,2437
+"260","Achillea nana",8714852,3065,3119995,"Achillea nana L.","Asterales","Asteraceae","Achillea",10.00736,46.40476,2247.5
+"261","Achillea nana",8714852,3065,3119995,"Achillea nana L.","Asterales","Asteraceae","Achillea",7.98795,46.07269,2117
+"262","Achillea nobilis",3120024,3065,3119995,"Achillea nobilis L.","Asterales","Asteraceae","Achillea",38.051579,44.553329,NA
+"263","Achillea nobilis",3120024,3065,3119995,"Achillea nobilis L.","Asterales","Asteraceae","Achillea",33.534389,44.6081,NA
+"264","Achillea nobilis",3120024,3065,3119995,"Achillea nobilis L.","Asterales","Asteraceae","Achillea",7.7309,46.34351,1065.5
+"265","Achillea nobilis",3120024,3065,3119995,"Achillea nobilis L.","Asterales","Asteraceae","Achillea",40.188862,44.5119,NA
+"266","Achillea nobilis",3120024,3065,3119995,"Achillea nobilis L.","Asterales","Asteraceae","Achillea",43.149424,43.958362,NA
+"267","Achillea moschata",6063803,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",12.11174,47.183529,NA
+"268","Achillea moschata",6063803,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",NA,NA,3262
+"269","Achillea moschata",6063803,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",NA,NA,2986
+"270","Achillea moschata",6063803,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",NA,NA,NA
+"271","Achillea moschata",6063803,3065,3119995,"Achillea erba-rotta subsp. moschata (Wulfen) I.Richardson","Asterales","Asteraceae","Achillea",NA,NA,NA
+"272","Achillea multifida",3120162,3065,3119995,"Achillea multifida (DC.) Griseb.","Asterales","Asteraceae","Achillea",23.400401,41.785373,NA
+"273","Achillea multifida",3120162,3065,3119995,"Achillea multifida (DC.) Griseb.","Asterales","Asteraceae","Achillea",23.482917,41.698367,NA
+"274","Achillea multifida",3120162,3065,3119995,"Achillea multifida (DC.) Griseb.","Asterales","Asteraceae","Achillea",23.315917,42.204067,NA
+"275","Achillea multifida",3120162,3065,3119995,"Achillea multifida (DC.) Griseb.","Asterales","Asteraceae","Achillea",29.73,40.63,NA
+"276","Achillea multifida",3120162,3065,3119995,"Achillea multifida (DC.) Griseb.","Asterales","Asteraceae","Achillea",29.75,40.65,NA
+"277","Achillea ptarmicoides",3120021,3065,3119995,"Achillea ptarmicoides Maxim.","Asterales","Asteraceae","Achillea",131.927402,42.996163,NA
+"278","Achillea ptarmicoides",3120021,3065,3119995,"Achillea ptarmicoides Maxim.","Asterales","Asteraceae","Achillea",131.869736,43.1058,NA
+"279","Achillea ptarmicoides",3120021,3065,3119995,"Achillea ptarmicoides Maxim.","Asterales","Asteraceae","Achillea",132.874628,42.833917,NA
+"280","Achillea ptarmicoides",3120021,3065,3119995,"Achillea ptarmicoides Maxim.","Asterales","Asteraceae","Achillea",132.058724,43.289475,NA
+"281","Achillea ptarmicoides",3120021,3065,3119995,"Achillea ptarmicoides Maxim.","Asterales","Asteraceae","Achillea",132.056359,43.28513,NA
+"282","Achillea coarctata",3120289,3065,3119995,"Achillea coarctata Poir.","Asterales","Asteraceae","Achillea",23.51778,40.373058,500
+"283","Achillea coarctata",3120289,3065,3119995,"Achillea coarctata Poir.","Asterales","Asteraceae","Achillea",23.33222,40.403061,578
+"284","Achillea coarctata",3120289,3065,3119995,"Achillea coarctata Poir.","Asterales","Asteraceae","Achillea",23.56583,40.31778,123
+"285","Achillea coarctata",3120289,3065,3119995,"Achillea coarctata Poir.","Asterales","Asteraceae","Achillea",23.416389,40.430828,525
+"286","Achillea coarctata",3120289,3065,3119995,"Achillea coarctata Poir.","Asterales","Asteraceae","Achillea",23.622499,40.283058,303
+"287","Achillea clypeolata",8360031,3065,3119995,"Achillea clypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",24.740181,41.10471,NA
+"288","Achillea clypeolata",8360031,3065,3119995,"Achillea clypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",22.129812,43.287326,NA
+"289","Achillea clypeolata",8360031,3065,3119995,"Achillea clypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",24.39739,42.12717,510
+"290","Achillea clypeolata",8360031,3065,3119995,"Achillea clypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",24.371,42.126,NA
+"291","Achillea clypeolata",8360031,3065,3119995,"Achillea clypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",19.583083,40.216923,NA
+"292","Achillea biserrata",3120300,3065,3119995,"Achillea biserrata M.Bieb.","Asterales","Asteraceae","Achillea",37.979275,44.612108,NA
+"293","Achillea biserrata",3120300,3065,3119995,"Achillea biserrata M.Bieb.","Asterales","Asteraceae","Achillea",39.0759,44.64783,NA
+"294","Achillea biserrata",3120300,3065,3119995,"Achillea biserrata M.Bieb.","Asterales","Asteraceae","Achillea",39.15055,44.57329,NA
+"295","Achillea biserrata",3120300,3065,3119995,"Achillea biserrata M.Bieb.","Asterales","Asteraceae","Achillea",37.588863,44.697587,NA
+"296","Achillea biserrata",3120300,3065,3119995,"Achillea biserrata M.Bieb.","Asterales","Asteraceae","Achillea",37.526043,44.742973,NA
+"297","Achillea biebersteinii",3120276,3065,3119995,"Achillea arabica Kotschy","Asterales","Asteraceae","Achillea",75.50756,44.00853,724
+"298","Achillea biebersteinii",3120276,3065,3119995,"Achillea arabica Kotschy","Asterales","Asteraceae","Achillea",76.60775,43.1435,1218
+"299","Achillea biebersteinii",3120276,3065,3119995,"Achillea arabica Kotschy","Asterales","Asteraceae","Achillea",39.78611,39.36333,1200
+"300","Achillea biebersteinii",3120276,3065,3119995,"Achillea arabica Kotschy","Asterales","Asteraceae","Achillea",39.68556,39.09306,1250
+"301","Achillea biebersteinii",3120276,3065,3119995,"Achillea arabica Kotschy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"302","Achillea atrata",3120203,3065,3119995,"Achillea atrata L.","Asterales","Asteraceae","Achillea",10.911338,47.581314,NA
+"303","Achillea atrata",3120203,3065,3119995,"Achillea atrata L.","Asterales","Asteraceae","Achillea",9.18107,47.00532,1895.5
+"304","Achillea atrata",3120203,3065,3119995,"Achillea atrata L.","Asterales","Asteraceae","Achillea",7.14517,46.5684,1837
+"305","Achillea atrata",3120203,3065,3119995,"Achillea atrata L.","Asterales","Asteraceae","Achillea",8.51375,46.51872,1374
+"306","Achillea atrata",3120203,3065,3119995,"Achillea atrata L.","Asterales","Asteraceae","Achillea",9.645592,46.424622,NA
+"307","Achillea clusiana",3120002,3065,3119995,"Achillea clusiana Tausch","Asterales","Asteraceae","Achillea",15.602457,47.691665,NA
+"308","Achillea clusiana",3120002,3065,3119995,"Achillea clusiana Tausch","Asterales","Asteraceae","Achillea",15.119193,47.599343,NA
+"309","Achillea clusiana",3120002,3065,3119995,"Achillea clusiana Tausch","Asterales","Asteraceae","Achillea",14.929531,47.503268,NA
+"310","Achillea clusiana",3120002,3065,3119995,"Achillea clusiana Tausch","Asterales","Asteraceae","Achillea",15.60147,47.69142,1760
+"311","Achillea clusiana",3120002,3065,3119995,"Achillea clusiana Tausch","Asterales","Asteraceae","Achillea",15.8,47.77,NA
+"312","Achillea clavennae",3120117,3065,3119995,"Achillea clavennae L.","Asterales","Asteraceae","Achillea",8.484605,47.484792,NA
+"313","Achillea clavennae",3120117,3065,3119995,"Achillea clavennae L.","Asterales","Asteraceae","Achillea",13.309075,47.813881,NA
+"314","Achillea clavennae",3120117,3065,3119995,"Achillea clavennae L.","Asterales","Asteraceae","Achillea",14.560423,47.559132,NA
+"315","Achillea clavennae",3120117,3065,3119995,"Achillea clavennae L.","Asterales","Asteraceae","Achillea",13.310581,47.813664,NA
+"316","Achillea clavennae",3120117,3065,3119995,"Achillea clavennae L.","Asterales","Asteraceae","Achillea",15.06995,47.581696,NA
+"317","Achillea chamaemelifolia",3120253,3065,3119995,"Achillea chamaemelifolia Pourr.","Asterales","Asteraceae","Achillea",2.33086,42.58262,1275
+"318","Achillea chamaemelifolia",3120253,3065,3119995,"Achillea chamaemelifolia Pourr.","Asterales","Asteraceae","Achillea",2.33086,42.58262,1530
+"319","Achillea chamaemelifolia",3120253,3065,3119995,"Achillea chamaemelifolia Pourr.","Asterales","Asteraceae","Achillea",2.33086,42.58262,1300
+"320","Achillea chamaemelifolia",3120253,3065,3119995,"Achillea chamaemelifolia Pourr.","Asterales","Asteraceae","Achillea",2.33086,42.58262,1510
+"321","Achillea chamaemelifolia",3120253,3065,3119995,"Achillea chamaemelifolia Pourr.","Asterales","Asteraceae","Achillea",1.87604,42.55763,1900
+"322","Achillea maritima",10844789,3065,3119995,"Achillea maritima Linnaeus, 1753","Asterales","Asteraceae","Achillea",-9.485637,38.709625,NA
+"323","Achillea maritima",10844789,3065,3119995,"Achillea maritima Linnaeus, 1753","Asterales","Asteraceae","Achillea",-9.338007,39.258398,NA
+"324","Achillea maritima",10844789,3065,3119995,"Achillea maritima Linnaeus, 1753","Asterales","Asteraceae","Achillea",27.939314,36.348758,NA
+"325","Achillea maritima",10844789,3065,3119995,"Achillea maritima Linnaeus, 1753","Asterales","Asteraceae","Achillea",-7.485541,37.174592,NA
+"326","Achillea maritima",10844789,3065,3119995,"Achillea maritima Linnaeus, 1753","Asterales","Asteraceae","Achillea",-9.209987,38.602372,NA
+"327","Achillea schurii",4214718,3065,3119995,"Achillea oxyloba subsp. schurii (Sch.Bip.) Heimerl","Asterales","Asteraceae","Achillea",24.62111,45.60278,2152
+"328","Achillea schurii",4214718,3065,3119995,"Achillea oxyloba subsp. schurii (Sch.Bip.) Heimerl","Asterales","Asteraceae","Achillea",25.43194,45.3625,1414
+"329","Achillea schurii",4214718,3065,3119995,"Achillea oxyloba subsp. schurii (Sch.Bip.) Heimerl","Asterales","Asteraceae","Achillea",24.42278,48.17333,1933
+"330","Achillea schurii",4214718,3065,3119995,"Achillea oxyloba subsp. schurii (Sch.Bip.) Heimerl","Asterales","Asteraceae","Achillea",NA,NA,1800
+"331","Achillea schurii",4214718,3065,3119995,"Achillea oxyloba subsp. schurii (Sch.Bip.) Heimerl","Asterales","Asteraceae","Achillea",24.2,48.275,1575
+"332","Achillea schmakovii",3120288,3065,3119995,"Achillea schmakovii Kupr.","Asterales","Asteraceae","Achillea",88.617,53.216,140
+"333","Achillea schmakovii",3120288,3065,3119995,"Achillea schmakovii Kupr.","Asterales","Asteraceae","Achillea",85.635277,51.0425,1765
+"334","Achillea schmakovii",3120288,3065,3119995,"Achillea schmakovii Kupr.","Asterales","Asteraceae","Achillea",85.6,51.033333,NA
+"335","Achillea schmakovii",3120288,3065,3119995,"Achillea schmakovii Kupr.","Asterales","Asteraceae","Achillea",85.7166,51.0666,2150
+"336","Achillea schmakovii",3120288,3065,3119995,"Achillea schmakovii Kupr.","Asterales","Asteraceae","Achillea",85.7166,51.0666,NA
+"337","Achillea salicifolia",3120376,3065,3119995,"Achillea salicifolia Besser","Asterales","Asteraceae","Achillea",72.570464,56.945468,NA
+"338","Achillea salicifolia",3120376,3065,3119995,"Achillea salicifolia Besser","Asterales","Asteraceae","Achillea",40.380733,56.098239,NA
+"339","Achillea salicifolia",3120376,3065,3119995,"Achillea salicifolia Besser","Asterales","Asteraceae","Achillea",69.360623,55.618026,NA
+"340","Achillea salicifolia",3120376,3065,3119995,"Achillea salicifolia Besser","Asterales","Asteraceae","Achillea",65.841703,57.114728,NA
+"341","Achillea salicifolia",3120376,3065,3119995,"Achillea salicifolia Besser","Asterales","Asteraceae","Achillea",37.364364,54.892158,NA
+"342","Achillea pyrenaica",4215016,3065,3119995,"Achillea pyrenaica Sibth. ex Godr.","Asterales","Asteraceae","Achillea",2.09037,42.40104,2165
+"343","Achillea pyrenaica",4215016,3065,3119995,"Achillea pyrenaica Sibth. ex Godr.","Asterales","Asteraceae","Achillea",2.09037,42.40104,2160
+"344","Achillea pyrenaica",4215016,3065,3119995,"Achillea pyrenaica Sibth. ex Godr.","Asterales","Asteraceae","Achillea",2.08757,42.58082,1470
+"345","Achillea pyrenaica",4215016,3065,3119995,"Achillea pyrenaica Sibth. ex Godr.","Asterales","Asteraceae","Achillea",2.09037,42.40104,2085
+"346","Achillea pyrenaica",4215016,3065,3119995,"Achillea pyrenaica Sibth. ex Godr.","Asterales","Asteraceae","Achillea",2.08757,42.58082,1475
+"347","Achillea ptarmicifolia",3120245,3065,3119995,"Achillea ptarmicifolia (Willd.) Rupr. ex Heimerl","Asterales","Asteraceae","Achillea",46.821646,42.105987,NA
+"348","Achillea ptarmicifolia",3120245,3065,3119995,"Achillea ptarmicifolia (Willd.) Rupr. ex Heimerl","Asterales","Asteraceae","Achillea",46.490089,41.985311,NA
+"349","Achillea ptarmicifolia",3120245,3065,3119995,"Achillea ptarmicifolia (Willd.) Rupr. ex Heimerl","Asterales","Asteraceae","Achillea",46.76004,42.152472,NA
+"350","Achillea ptarmicifolia",3120245,3065,3119995,"Achillea ptarmicifolia (Willd.) Rupr. ex Heimerl","Asterales","Asteraceae","Achillea",46.509491,41.972693,NA
+"351","Achillea ptarmicifolia",3120245,3065,3119995,"Achillea ptarmicifolia (Willd.) Rupr. ex Heimerl","Asterales","Asteraceae","Achillea",47.2865,41.946918,NA
+"352","Achillea pseudopectinata",3120058,3065,3119995,"Achillea pseudopectinata Janka","Asterales","Asteraceae","Achillea",23.10111,42.09028,438
+"353","Achillea pseudopectinata",7570109,3065,3119995,"Achillea pseudopectinata Janka","Asterales","Asteraceae","Achillea",27.17617,42.60219,170
+"354","Achillea pseudopectinata",7570109,3065,3119995,"Achillea pseudopectinata Janka","Asterales","Asteraceae","Achillea",27.17617,42.60219,170
+"355","Achillea pseudopectinata",7570109,3065,3119995,"Achillea pseudopectinata Janka","Asterales","Asteraceae","Achillea",24.39872,42.31853,403
+"356","Achillea pseudopectinata",7570109,3065,3119995,"Achillea pseudopectinata Janka","Asterales","Asteraceae","Achillea",24.88,41.98,290
+"357","Achillea teretifolia",3120362,3065,3119995,"Achillea teretifolia Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"358","Achillea teretifolia",3120362,3065,3119995,"Achillea teretifolia Willd.","Asterales","Asteraceae","Achillea",NA,NA,1300
+"359","Achillea teretifolia",3120362,3065,3119995,"Achillea teretifolia Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"360","Achillea teretifolia",3120362,3065,3119995,"Achillea teretifolia Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"361","Achillea teretifolia",3120362,3065,3119995,"Achillea teretifolia Willd.","Asterales","Asteraceae","Achillea",NA,NA,2150
+"362","Achillea monticola",4215450,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",-3.44929,43.14402,866
+"363","Achillea monticola",4215450,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",1.92386,42.40353,1065
+"364","Achillea monticola",4215450,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",2.59565,43.47131,365
+"365","Achillea monticola",4215450,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",2.57215,43.52543,820
+"366","Achillea monticola",4215450,3065,3119995,"Achillea millefolium subsp. millefolium","Asterales","Asteraceae","Achillea",-7.92,41,1050
+"367","Achillea ligustica",3120032,3065,3119995,"Achillea ligustica All.","Asterales","Asteraceae","Achillea",14.393889,37.293889,NA
+"368","Achillea ligustica",3120032,3065,3119995,"Achillea ligustica All.","Asterales","Asteraceae","Achillea",8.806702,40.207973,NA
+"369","Achillea ligustica",3120032,3065,3119995,"Achillea ligustica All.","Asterales","Asteraceae","Achillea",8.532566,44.364741,NA
+"370","Achillea ligustica",3120032,3065,3119995,"Achillea ligustica All.","Asterales","Asteraceae","Achillea",11.020363,51.023211,NA
+"371","Achillea ligustica",3120032,3065,3119995,"Achillea ligustica All.","Asterales","Asteraceae","Achillea",14.476247,40.661892,NA
+"372","Achillea micrantha",3120277,3065,3119995,"Achillea micrantha Willd.","Asterales","Asteraceae","Achillea",38.226268,49.040761,NA
+"373","Achillea micrantha",3120277,3065,3119995,"Achillea micrantha Willd.","Asterales","Asteraceae","Achillea",39.39325,49.893181,NA
+"374","Achillea micrantha",3120277,3065,3119995,"Achillea micrantha Willd.","Asterales","Asteraceae","Achillea",39.392236,49.892983,NA
+"375","Achillea micrantha",3120277,3065,3119995,"Achillea micrantha Willd.","Asterales","Asteraceae","Achillea",39.392222,49.8931,NA
+"376","Achillea micrantha",3120277,3065,3119995,"Achillea micrantha Willd.","Asterales","Asteraceae","Achillea",35.230076,46.211516,NA
+"377","Achillea macrophylla",3118536,3065,3119995,"Achillea macrophylla L.","Asterales","Asteraceae","Achillea",8.63906,46.29255,368
+"378","Achillea macrophylla",3118536,3065,3119995,"Achillea macrophylla L.","Asterales","Asteraceae","Achillea",9.08906,46.15192,1754
+"379","Achillea macrophylla",3118536,3065,3119995,"Achillea macrophylla L.","Asterales","Asteraceae","Achillea",7.08203,46.25337,1931
+"380","Achillea macrophylla",3118536,3065,3119995,"Achillea macrophylla L.","Asterales","Asteraceae","Achillea",7.92533,46.29787,1592.5
+"381","Achillea macrophylla",3118536,3065,3119995,"Achillea macrophylla L.","Asterales","Asteraceae","Achillea",8.63906,46.29255,367
+"382","Achillea impatiens",3120324,3065,3119995,"Achillea impatiens L.","Asterales","Asteraceae","Achillea",103.780995,52.478033,NA
+"383","Achillea impatiens",3120324,3065,3119995,"Achillea impatiens L.","Asterales","Asteraceae","Achillea",85.522903,51.569524,NA
+"384","Achillea impatiens",3120324,3065,3119995,"Achillea impatiens L.","Asterales","Asteraceae","Achillea",103.194225,52.902191,NA
+"385","Achillea impatiens",3120324,3065,3119995,"Achillea impatiens L.","Asterales","Asteraceae","Achillea",83.208549,54.469285,NA
+"386","Achillea impatiens",3120324,3065,3119995,"Achillea impatiens L.","Asterales","Asteraceae","Achillea",83.33292,54.467285,NA
+"387","Achillea holosericea",7752443,3065,3119995,"Achillea holosericea Sibth. & Sm.","Asterales","Asteraceae","Achillea",21.89876,38.681043,NA
+"388","Achillea holosericea",7752443,3065,3119995,"Achillea holosericea Sibth. & Sm.","Asterales","Asteraceae","Achillea",22.398609,38.03611,1309
+"389","Achillea holosericea",7752443,3065,3119995,"Achillea holosericea Sibth. & Sm.","Asterales","Asteraceae","Achillea",22.41389,40.105,1782
+"390","Achillea holosericea",7752443,3065,3119995,"Achillea holosericea Sibth. & Sm.","Asterales","Asteraceae","Achillea",21.660561,40.19944,1365
+"391","Achillea holosericea",7752443,3065,3119995,"Achillea holosericea Sibth. & Sm.","Asterales","Asteraceae","Achillea",21.198059,39.706669,1565
+"392","Achillea cappadocica",3120396,3065,3119995,"Achillea cappadocica Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",NA,NA,1200
+"393","Achillea cappadocica",3120396,3065,3119995,"Achillea cappadocica Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",NA,NA,1500
+"394","Achillea cappadocica",3120396,3065,3119995,"Achillea cappadocica Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",NA,NA,2000
+"395","Achillea cappadocica",3120396,3065,3119995,"Achillea cappadocica Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",NA,NA,1950
+"396","Achillea cappadocica",3120396,3065,3119995,"Achillea cappadocica Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"397","Achillea barbeyana",3120397,3065,3119995,"Achillea barbeyana Heldr. & Heimerl","Asterales","Asteraceae","Achillea",22.14417,38.68111,2475
+"398","Achillea barbeyana",3120397,3065,3119995,"Achillea barbeyana Heldr. & Heimerl","Asterales","Asteraceae","Achillea",22.083333,38.7,NA
+"399","Achillea barbeyana",3120397,3065,3119995,"Achillea barbeyana Heldr. & Heimerl","Asterales","Asteraceae","Achillea",22.083333,38.7,NA
+"400","Achillea barbeyana",3120397,3065,3119995,"Achillea barbeyana Heldr. & Heimerl","Asterales","Asteraceae","Achillea",22.15,38.683333,NA
+"401","Achillea barbeyana",3120397,3065,3119995,"Achillea barbeyana Heldr. & Heimerl","Asterales","Asteraceae","Achillea",22.15,38.683333,NA
+"402","Achillea gypsicola",3120314,3065,3119995,"Achillea gypsicola Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,800
+"403","Achillea gypsicola",3120314,3065,3119995,"Achillea gypsicola Hub.-Mor.","Asterales","Asteraceae","Achillea",33.2525,40.69944,NA
+"404","Achillea gypsicola",3120314,3065,3119995,"Achillea gypsicola Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,800
+"405","Achillea gypsicola",3120314,3065,3119995,"Achillea gypsicola Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"406","Achillea monocephala",3120310,3065,3119995,"Achillea monocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,1200
+"407","Achillea monocephala",3120310,3065,3119995,"Achillea monocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",14.04222,37.56944,NA
+"408","Achillea monocephala",3120310,3065,3119995,"Achillea monocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"409","Achillea monocephala",3120310,3065,3119995,"Achillea monocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"410","Achillea monocephala",3120310,3065,3119995,"Achillea monocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"411","Achillea ageratifolia",3120007,3065,3119995,"Achillea ageratifolia (Sibth. & Sm.) Boiss.","Asterales","Asteraceae","Achillea",24.748699,41.117306,NA
+"412","Achillea ageratifolia",8082660,3065,3119995,"Achillea ageratifolia subsp. serbica (Nyman) Heimerl","Asterales","Asteraceae","Achillea",21.3,41.95806,450
+"413","Achillea ageratifolia",8082660,3065,3119995,"Achillea ageratifolia subsp. serbica (Nyman) Heimerl","Asterales","Asteraceae","Achillea",20.87,42.01722,1970
+"414","Achillea ageratifolia",3120007,3065,3119995,"Achillea ageratifolia (Sibth. & Sm.) Boiss.","Asterales","Asteraceae","Achillea",22.069839,43.277233,NA
+"415","Achillea ageratifolia",3120007,3065,3119995,"Achillea ageratifolia (Sibth. & Sm.) Boiss.","Asterales","Asteraceae","Achillea",24.748655,41.117313,NA
+"416","Achillea lewisii",4933735,3065,3119995,"Achillea ×lewisii S.Arn.","Asterales","Asteraceae","Achillea",-104.961468,39.732207,1643
+"417","Achillea lewisii",4933735,3065,3119995,"Achillea ×lewisii S.Arn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"418","Achillea lewisii",4933735,3065,3119995,"Achillea ×lewisii S.Arn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"419","Achillea lewisii",4933735,3065,3119995,"Achillea ×lewisii S.Arn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"420","Achillea brachyphylla",3120296,3065,3119995,"Achillea brachyphylla Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"421","Achillea brachyphylla",3120296,3065,3119995,"Achillea brachyphylla Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"422","Achillea brachyphylla",3120296,3065,3119995,"Achillea brachyphylla Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"423","Achillea brachyphylla",3120296,3065,3119995,"Achillea brachyphylla Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,366
+"424","Achillea brachyphylla",3120296,3065,3119995,"Achillea brachyphylla Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,366
+"425","Achillea boissieri",3120156,3065,3119995,"Achillea boissieri Hausskn. ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"426","Achillea boissieri",3120156,3065,3119995,"Achillea boissieri Hausskn. ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"427","Achillea boissieri",3120156,3065,3119995,"Achillea boissieri Hausskn. ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,914
+"428","Achillea boissieri",3120156,3065,3119995,"Achillea boissieri Hausskn. ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"429","Achillea boissieri",3120156,3065,3119995,"Achillea boissieri Hausskn. ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"430","Achillea aegyptiaca",3120153,3065,3119995,"Achillea aegyptiaca L.","Asterales","Asteraceae","Achillea",-104.961468,39.732207,1643
+"431","Achillea aegyptiaca",3120153,3065,3119995,"Achillea aegyptiaca L.","Asterales","Asteraceae","Achillea",22.27,37.04,1356
+"432","Achillea aegyptiaca",3120153,3065,3119995,"Achillea aegyptiaca L.","Asterales","Asteraceae","Achillea",-107.999924,36.836822,1712
+"433","Achillea aegyptiaca",3120153,3065,3119995,"Achillea aegyptiaca L.","Asterales","Asteraceae","Achillea",25.6,36.933333,NA
+"434","Achillea aegyptiaca",3120153,3065,3119995,"Achillea aegyptiaca L.","Asterales","Asteraceae","Achillea",22.15,40.266667,NA
+"435","Achillea phrygia",3120170,3065,3119995,"Achillea phrygia Boiss. & Balansa","Asterales","Asteraceae","Achillea",32.97611,38.05722,NA
+"436","Achillea phrygia",3120170,3065,3119995,"Achillea phrygia Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,1620
+"437","Achillea phrygia",3120170,3065,3119995,"Achillea phrygia Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,1620
+"438","Achillea phrygia",3120170,3065,3119995,"Achillea phrygia Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,1622.5
+"439","Achillea phrygia",3120170,3065,3119995,"Achillea phrygia Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"440","Achillea schischkinii",3120212,3065,3119995,"Achillea schischkinii Sosn.","Asterales","Asteraceae","Achillea",39.42,39.93,1740
+"441","Achillea schischkinii",3120212,3065,3119995,"Achillea schischkinii Sosn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"442","Achillea schischkinii",3120212,3065,3119995,"Achillea schischkinii Sosn.","Asterales","Asteraceae","Achillea",NA,NA,1670
+"443","Achillea schischkinii",3120212,3065,3119995,"Achillea schischkinii Sosn.","Asterales","Asteraceae","Achillea",NA,NA,1700
+"444","Achillea schischkinii",3120212,3065,3119995,"Achillea schischkinii Sosn.","Asterales","Asteraceae","Achillea",NA,NA,1550
+"445","Achillea lingulata",3120188,3065,3119995,"Achillea lingulata Waldst. & Kit.","Asterales","Asteraceae","Achillea",20.107067,42.654383,NA
+"446","Achillea lingulata",3120188,3065,3119995,"Achillea lingulata Waldst. & Kit.","Asterales","Asteraceae","Achillea",22.20889,40.27111,1678
+"447","Achillea lingulata",3120188,3065,3119995,"Achillea lingulata Waldst. & Kit.","Asterales","Asteraceae","Achillea",22.62778,43.38056,NA
+"448","Achillea lingulata",3120188,3065,3119995,"Achillea lingulata Waldst. & Kit.","Asterales","Asteraceae","Achillea",22.63667,43.39417,1858
+"449","Achillea lingulata",3120188,3065,3119995,"Achillea lingulata Waldst. & Kit.","Asterales","Asteraceae","Achillea",20.84972,43.31361,1535
+"450","Achillea barrelieri",3120181,3065,3119995,"Achillea barrelieri (Ten.) Sch.Bip.","Asterales","Asteraceae","Achillea",13.71814,42.439465,NA
+"451","Achillea barrelieri",3120181,3065,3119995,"Achillea barrelieri (Ten.) Sch.Bip.","Asterales","Asteraceae","Achillea",13.553639,42.449203,NA
+"452","Achillea barrelieri",3120181,3065,3119995,"Achillea barrelieri (Ten.) Sch.Bip.","Asterales","Asteraceae","Achillea",13.556832,42.471413,NA
+"453","Achillea barrelieri",3120181,3065,3119995,"Achillea barrelieri (Ten.) Sch.Bip.","Asterales","Asteraceae","Achillea",11.820704,46.595304,NA
+"454","Achillea barrelieri",7066426,3065,3119995,"Achillea barrelieri subsp. barrelieri","Asterales","Asteraceae","Achillea",14.108265,42.145112,NA
+"455","Achillea kotschyi",6077424,3065,3119995,"Achillea kotschyi subsp. canescens Bässler","Asterales","Asteraceae","Achillea",31.31,37.68,2360
+"456","Achillea kotschyi",6077424,3065,3119995,"Achillea kotschyi subsp. canescens Bässler","Asterales","Asteraceae","Achillea",31.31,37.68,2420
+"457","Achillea kotschyi",6077424,3065,3119995,"Achillea kotschyi subsp. canescens Bässler","Asterales","Asteraceae","Achillea",31.31,37.68,2200
+"458","Achillea kotschyi",6077424,3065,3119995,"Achillea kotschyi subsp. canescens Bässler","Asterales","Asteraceae","Achillea",34.558,37.404,1650
+"459","Achillea kotschyi",6077423,3065,3119995,"Achillea kotschyi subsp. kotschyi","Asterales","Asteraceae","Achillea",NA,NA,2640
+"460","Achillea aleppica",3120258,3065,3119995,"Achillea aleppica DC.","Asterales","Asteraceae","Achillea",35.1,31.35,NA
+"461","Achillea aleppica",3120258,3065,3119995,"Achillea aleppica DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"462","Achillea aleppica",3120258,3065,3119995,"Achillea aleppica DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"463","Achillea aleppica",4217363,3065,3119995,"Achillea aleppica subsp. zederbaueri (Hayek) Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"464","Achillea aleppica",3120258,3065,3119995,"Achillea aleppica DC.","Asterales","Asteraceae","Achillea",35.795839,33.305554,NA
+"465","Achillea sipikorensis",3120375,3065,3119995,"Achillea sipikorensis Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",38.03,39.88,1570
+"466","Achillea sipikorensis",3120375,3065,3119995,"Achillea sipikorensis Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",NA,NA,1500
+"467","Achillea sipikorensis",3120375,3065,3119995,"Achillea sipikorensis Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",NA,NA,1510
+"468","Achillea sipikorensis",3120375,3065,3119995,"Achillea sipikorensis Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",39.31753,39.6646,NA
+"469","Achillea sipikorensis",3120375,3065,3119995,"Achillea sipikorensis Hausskn. & Bornm.","Asterales","Asteraceae","Achillea",NA,NA,1676.5
+"470","Achillea baldaccii",4217147,3065,3119995,"Achillea baldaccii Degen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"471","Achillea baldaccii",4217147,3065,3119995,"Achillea baldaccii Degen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"472","Achillea baldaccii",4217147,3065,3119995,"Achillea baldaccii Degen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"473","Achillea baldaccii",4217147,3065,3119995,"Achillea baldaccii Degen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"474","Achillea baldaccii",4217147,3065,3119995,"Achillea baldaccii Degen","Asterales","Asteraceae","Achillea",19.64718,40.28257,NA
+"475","Achillea santolinoides",3120235,3065,3119995,"Achillea santolinoides Lag.","Asterales","Asteraceae","Achillea",-1.179306,37.928202,NA
+"476","Achillea santolinoides",3120235,3065,3119995,"Achillea santolinoides Lag.","Asterales","Asteraceae","Achillea",-1.17923,37.928605,NA
+"477","Achillea santolinoides",6063711,3065,3119995,"Achillea santolinoides subsp. wilhelmsii (K.Koch) Greuter","Asterales","Asteraceae","Achillea",67.3574,30.4579,6531
+"478","Achillea santolinoides",6063711,3065,3119995,"Achillea santolinoides subsp. wilhelmsii (K.Koch) Greuter","Asterales","Asteraceae","Achillea",67.4164,30.4517,7571
+"479","Achillea santolinoides",3120235,3065,3119995,"Achillea santolinoides Lag.","Asterales","Asteraceae","Achillea",-1.08,38.98,NA
+"480","Achillea ketenoglui",3120297,3065,3119995,"Achillea ketenoglui H.Duman","Asterales","Asteraceae","Achillea",NA,NA,845
+"481","Achillea sintenisii",3120045,3065,3119995,"Achillea sintenisii Hub.-Mor.","Asterales","Asteraceae","Achillea",34.8175,38.63806,NA
+"482","Achillea sintenisii",3120045,3065,3119995,"Achillea sintenisii Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,1500
+"483","Achillea sintenisii",3120045,3065,3119995,"Achillea sintenisii Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,1500
+"484","Achillea sintenisii",3120045,3065,3119995,"Achillea sintenisii Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,1400
+"485","Achillea sintenisii",3120045,3065,3119995,"Achillea sintenisii Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,1219
+"486","Achillea alexandri-regis",3120383,3065,3119995,"Achillea alexandri-regis Bornm. & Rudsky","Asterales","Asteraceae","Achillea",NA,NA,NA
+"487","Achillea alexandri-regis",3120383,3065,3119995,"Achillea alexandri-regis Bornm. & Rudsky","Asterales","Asteraceae","Achillea",NA,NA,NA
+"488","Achillea alexandri-regis",3120383,3065,3119995,"Achillea alexandri-regis Bornm. & Rudsky","Asterales","Asteraceae","Achillea",20.87823,42.22702,NA
+"489","Achillea occulta",3120043,3065,3119995,"Achillea occulta Constantin. & Kalpoutz.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"490","Achillea occulta",3120043,3065,3119995,"Achillea occulta Constantin. & Kalpoutz.","Asterales","Asteraceae","Achillea",22.98333,36.81667,1050
+"491","Achillea occulta",3120043,3065,3119995,"Achillea occulta Constantin. & Kalpoutz.","Asterales","Asteraceae","Achillea",22.98333,36.81667,1050
+"492","Achillea occulta",3120043,3065,3119995,"Achillea occulta Constantin. & Kalpoutz.","Asterales","Asteraceae","Achillea",22.98333,36.81667,1050
+"493","Achillea occulta",3120043,3065,3119995,"Achillea occulta Constantin. & Kalpoutz.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"494","Achillea cucullata",3120354,3065,3119995,"Achillea cucullata (Hausskn.) Bornm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"495","Achillea cucullata",3120354,3065,3119995,"Achillea cucullata (Hausskn.) Bornm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"496","Achillea cucullata",3120354,3065,3119995,"Achillea cucullata (Hausskn.) Bornm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"497","Achillea cucullata",3120354,3065,3119995,"Achillea cucullata (Hausskn.) Bornm.","Asterales","Asteraceae","Achillea",NA,NA,1800
+"498","Achillea cucullata",3120354,3065,3119995,"Achillea cucullata (Hausskn.) Bornm.","Asterales","Asteraceae","Achillea",NA,NA,1300
+"499","Achillea magnifica",3120274,3065,3119995,"Achillea magnifica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,950
+"500","Achillea magnifica",3120274,3065,3119995,"Achillea magnifica Hub.-Mor.","Asterales","Asteraceae","Achillea",39.31753,39.6646,NA
+"501","Achillea magnifica",3120274,3065,3119995,"Achillea magnifica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"502","Achillea magnifica",3120274,3065,3119995,"Achillea magnifica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"503","Achillea magnifica",3120274,3065,3119995,"Achillea magnifica Hub.-Mor.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"504","Achillea lycaonica",3120332,3065,3119995,"Achillea lycaonica Boiss. & Heldr.","Asterales","Asteraceae","Achillea",NA,NA,940
+"505","Achillea lycaonica",3120332,3065,3119995,"Achillea lycaonica Boiss. & Heldr.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"506","Achillea lycaonica",3120332,3065,3119995,"Achillea lycaonica Boiss. & Heldr.","Asterales","Asteraceae","Achillea",NA,NA,1100
+"507","Achillea lycaonica",3120332,3065,3119995,"Achillea lycaonica Boiss. & Heldr.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"508","Achillea lycaonica",3120332,3065,3119995,"Achillea lycaonica Boiss. & Heldr.","Asterales","Asteraceae","Achillea",NA,NA,1200
+"509","Achillea goniocephala",3120353,3065,3119995,"Achillea goniocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,1900
+"510","Achillea goniocephala",3120353,3065,3119995,"Achillea goniocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,1500
+"511","Achillea goniocephala",3120353,3065,3119995,"Achillea goniocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"512","Achillea goniocephala",3120353,3065,3119995,"Achillea goniocephala Boiss. & Balansa","Asterales","Asteraceae","Achillea",NA,NA,NA
+"513","Achillea tuzsonii",3120130,3065,3119995,"Achillea tuzsonii Ujhelyi","Asterales","Asteraceae","Achillea",NA,NA,NA
+"514","Achillea glaberrima",3120133,3065,3119995,"Achillea glaberrima Klokov","Asterales","Asteraceae","Achillea",37.0692,47.30218,NA
+"515","Achillea glaberrima",3120133,3065,3119995,"Achillea glaberrima Klokov","Asterales","Asteraceae","Achillea",37.067194,47.304389,NA
+"516","Achillea glaberrima",3120133,3065,3119995,"Achillea glaberrima Klokov","Asterales","Asteraceae","Achillea",37.06889,47.30525,NA
+"517","Achillea glaberrima",3120133,3065,3119995,"Achillea glaberrima Klokov","Asterales","Asteraceae","Achillea",37.067194,47.305472,NA
+"518","Achillea glaberrima",3120133,3065,3119995,"Achillea glaberrima Klokov","Asterales","Asteraceae","Achillea",37.07381,47.29853,NA
+"519","Achillea armenorum",3120139,3065,3119995,"Achillea armenorum Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"520","Achillea armenorum",3120139,3065,3119995,"Achillea armenorum Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,305
+"521","Achillea armenorum",3120139,3065,3119995,"Achillea armenorum Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"522","Achillea armenorum",3120139,3065,3119995,"Achillea armenorum Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"523","Achillea armenorum",3120139,3065,3119995,"Achillea armenorum Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,2850
+"524","Achillea conferta",3120046,3065,3119995,"Achillea conferta DC.","Asterales","Asteraceae","Achillea",57.933333,28.916667,3250
+"525","Achillea conferta",3120046,3065,3119995,"Achillea conferta DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"526","Achillea conferta",3120046,3065,3119995,"Achillea conferta DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"527","Achillea conferta",3120046,3065,3119995,"Achillea conferta DC.","Asterales","Asteraceae","Achillea",NA,NA,200
+"528","Achillea conferta",3120046,3065,3119995,"Achillea conferta DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"529","Achillea milliana",3120011,3065,3119995,"Achillea milliana H.Duman","Asterales","Asteraceae","Achillea",NA,NA,2200
+"530","Achillea milliana",3120011,3065,3119995,"Achillea milliana H.Duman","Asterales","Asteraceae","Achillea",NA,NA,NA
+"531","Achillea chrysocoma",3120012,3065,3119995,"Achillea chrysocoma Friv.","Asterales","Asteraceae","Achillea",20.82889,40.95389,1565
+"532","Achillea chrysocoma",3120012,3065,3119995,"Achillea chrysocoma Friv.","Asterales","Asteraceae","Achillea",20.87,42.01722,1970
+"533","Achillea chrysocoma",3120012,3065,3119995,"Achillea chrysocoma Friv.","Asterales","Asteraceae","Achillea",20.84306,42.00722,2490
+"534","Achillea chrysocoma",3120012,3065,3119995,"Achillea chrysocoma Friv.","Asterales","Asteraceae","Achillea",22.01667,40.543331,1512
+"535","Achillea chrysocoma",3120012,3065,3119995,"Achillea chrysocoma Friv.","Asterales","Asteraceae","Achillea",20.8289,40.953817,NA
+"536","Achillea sieheana",3120260,3065,3119995,"Achillea sieheana Stapf","Asterales","Asteraceae","Achillea",NA,NA,NA
+"537","Achillea sieheana",3120260,3065,3119995,"Achillea sieheana Stapf","Asterales","Asteraceae","Achillea",NA,NA,NA
+"538","Achillea sieheana",3120260,3065,3119995,"Achillea sieheana Stapf","Asterales","Asteraceae","Achillea",NA,NA,NA
+"539","Achillea sieheana",3120260,3065,3119995,"Achillea sieheana Stapf","Asterales","Asteraceae","Achillea",NA,NA,NA
+"540","Achillea sieheana",3120260,3065,3119995,"Achillea sieheana Stapf","Asterales","Asteraceae","Achillea",NA,NA,1200
+"541","Achillea ambrosiaca",3120208,3065,3119995,"Achillea ambrosiaca (Boiss. & Heldr.) Boiss.","Asterales","Asteraceae","Achillea",NA,NA,2800
+"542","Achillea ambrosiaca",3120208,3065,3119995,"Achillea ambrosiaca (Boiss. & Heldr.) Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"543","Achillea ambrosiaca",3120208,3065,3119995,"Achillea ambrosiaca (Boiss. & Heldr.) Boiss.","Asterales","Asteraceae","Achillea",22.366667,40.066667,NA
+"544","Achillea ambrosiaca",3120208,3065,3119995,"Achillea ambrosiaca (Boiss. & Heldr.) Boiss.","Asterales","Asteraceae","Achillea",22.383333,40.066667,NA
+"545","Achillea ambrosiaca",3120208,3065,3119995,"Achillea ambrosiaca (Boiss. & Heldr.) Boiss.","Asterales","Asteraceae","Achillea",NA,NA,2650
+"546","Achillea maura",3120304,3065,3119995,"Achillea maura Humbert","Asterales","Asteraceae","Achillea",NA,NA,NA
+"547","Achillea maura",3120304,3065,3119995,"Achillea maura Humbert","Asterales","Asteraceae","Achillea",-4.512329,34.927338,1380
+"548","Achillea maura",3120304,3065,3119995,"Achillea maura Humbert","Asterales","Asteraceae","Achillea",NA,NA,NA
+"549","Achillea maura",3120304,3065,3119995,"Achillea maura Humbert","Asterales","Asteraceae","Achillea",-5.1062,35.0912,1600
+"550","Achillea maura",3120304,3065,3119995,"Achillea maura Humbert","Asterales","Asteraceae","Achillea",-5.2263,35.018,1500
+"551","Achillea sedelmeyeriana",3141033,3065,3119995,"Achillea sedelmeyeriana Sosn.","Asterales","Asteraceae","Achillea",NA,NA,1750
+"552","Achillea sedelmeyeriana",3141033,3065,3119995,"Achillea sedelmeyeriana Sosn.","Asterales","Asteraceae","Achillea",NA,NA,1750
+"553","Achillea thracica",3119999,3065,3119995,"Achillea thracica Velen.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"554","Achillea thracica",3119999,3065,3119995,"Achillea thracica Velen.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"555","Achillea thracica",3119999,3065,3119995,"Achillea thracica Velen.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"556","Achillea thracica",3119999,3065,3119995,"Achillea thracica Velen.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"557","Achillea thracica",3119999,3065,3119995,"Achillea thracica Velen.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"558","Achillea spinulifolia",3120309,3065,3119995,"Achillea spinulifolia Fenzl ex Boiss.","Asterales","Asteraceae","Achillea",11.310253,52.780338,NA
+"559","Achillea spinulifolia",3120309,3065,3119995,"Achillea spinulifolia Fenzl ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"560","Achillea spinulifolia",8667785,3065,3119995,"Achillea spinulifolia Fenzl ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,1829
+"561","Achillea spinulifolia",8667785,3065,3119995,"Achillea spinulifolia Fenzl ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,1829
+"562","Achillea spinulifolia",3120309,3065,3119995,"Achillea spinulifolia Fenzl ex Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"563","Achillea oligocephala",3120221,3065,3119995,"Achillea oligocephala DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"564","Achillea oligocephala",3120221,3065,3119995,"Achillea oligocephala DC.","Asterales","Asteraceae","Achillea",NA,NA,320
+"565","Achillea oligocephala",3120221,3065,3119995,"Achillea oligocephala DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"566","Achillea oligocephala",3120221,3065,3119995,"Achillea oligocephala DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"567","Achillea oligocephala",3120221,3065,3119995,"Achillea oligocephala DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"568","Achillea morisiana",3120272,3065,3119995,"Achillea erba-rotta subsp. erba-rotta","Asterales","Asteraceae","Achillea",NA,NA,2400
+"569","Achillea morisiana",3120272,3065,3119995,"Achillea erba-rotta subsp. erba-rotta","Asterales","Asteraceae","Achillea",NA,NA,2000
+"570","Achillea morisiana",3120272,3065,3119995,"Achillea erba-rotta subsp. erba-rotta","Asterales","Asteraceae","Achillea",NA,NA,NA
+"571","Achillea morisiana",3120272,3065,3119995,"Achillea erba-rotta subsp. erba-rotta","Asterales","Asteraceae","Achillea",NA,NA,NA
+"572","Achillea morisiana",3120272,3065,3119995,"Achillea erba-rotta subsp. erba-rotta","Asterales","Asteraceae","Achillea",NA,NA,NA
+"573","Achillea crithmifolia",8059665,3065,3119995,"Achillea crithmifolia Waldst. & Kit.","Asterales","Asteraceae","Achillea",3.870431,43.613517,NA
+"574","Achillea crithmifolia",8059665,3065,3119995,"Achillea crithmifolia Waldst. & Kit.","Asterales","Asteraceae","Achillea",3.872778,43.614167,NA
+"575","Achillea crithmifolia",8059665,3065,3119995,"Achillea crithmifolia Waldst. & Kit.","Asterales","Asteraceae","Achillea",3.871667,43.613889,NA
+"576","Achillea crithmifolia",8059665,3065,3119995,"Achillea crithmifolia Waldst. & Kit.","Asterales","Asteraceae","Achillea",4.67611,44.215279,NA
+"577","Achillea crithmifolia",8059665,3065,3119995,"Achillea crithmifolia Waldst. & Kit.","Asterales","Asteraceae","Achillea",22.01,40.18639,457
+"578","Achillea graja",3120149,3065,3119995,"Achillea ×graja Beyer","Asterales","Asteraceae","Achillea",NA,NA,2950
+"579","Achillea graja",3120149,3065,3119995,"Achillea ×graja Beyer","Asterales","Asteraceae","Achillea",NA,NA,3050
+"580","Achillea graja",3120149,3065,3119995,"Achillea ×graja Beyer","Asterales","Asteraceae","Achillea",NA,NA,NA
+"581","Achillea graja",3120149,3065,3119995,"Achillea ×graja Beyer","Asterales","Asteraceae","Achillea",NA,NA,NA
+"582","Achillea graja",3120149,3065,3119995,"Achillea ×graja Beyer","Asterales","Asteraceae","Achillea",NA,NA,NA
+"583","Achillea sibirica",8069151,3065,3119995,"Achillea sibirica Desf. ex Colla, 1834","Asterales","Asteraceae","Achillea",-76.96,38.91,NA
+"584","Achillea sibirica",8069151,3065,3119995,"Achillea sibirica Desf. ex Colla, 1834","Asterales","Asteraceae","Achillea",-76.96,38.91,NA
+"585","Achillea sibirica",8069151,3065,3119995,"Achillea sibirica Desf. ex Colla, 1834","Asterales","Asteraceae","Achillea",-141.93718,64.070732,NA
+"586","Achillea sibirica",8069151,3065,3119995,"Achillea sibirica Desf. ex Colla, 1834","Asterales","Asteraceae","Achillea",-148.78236,65.44435,270
+"587","Achillea sibirica",8069151,3065,3119995,"Achillea sibirica Desf. ex Colla, 1834","Asterales","Asteraceae","Achillea",10.671,63.434,NA
+"588","Achillea croatica",8417254,3065,3119995,"Achillea croatica Hornem. ex Colla","Asterales","Asteraceae","Achillea",NA,NA,NA
+"589","Achillea bronchalensis",4217002,3065,3119995,"Achillea ×bronchalensis Mateo, Fabado & C.Torres","Asterales","Asteraceae","Achillea",-1.95,39.81,990
+"590","Achillea bronchalensis",4217002,3065,3119995,"Achillea ×bronchalensis Mateo, Fabado & C.Torres","Asterales","Asteraceae","Achillea",-1.77,40.64,1400
+"591","Achillea bronchalensis",4217002,3065,3119995,"Achillea ×bronchalensis Mateo, Fabado & C.Torres","Asterales","Asteraceae","Achillea",-1.59,40.5,1620
+"592","Achillea bronchalensis",4217002,3065,3119995,"Achillea ×bronchalensis Mateo, Fabado & C.Torres","Asterales","Asteraceae","Achillea",-1.52,40.66,1360
+"593","Achillea bronchalensis",4217002,3065,3119995,"Achillea ×bronchalensis Mateo, Fabado & C.Torres","Asterales","Asteraceae","Achillea",-1.59,40.3,1560
+"594","Achillea kellereri",4215997,3065,3119995,"Achillea ×kellereri Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"595","Achillea kellereri",4215997,3065,3119995,"Achillea ×kellereri Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"596","Achillea kellereri",4215997,3065,3119995,"Achillea ×kellereri Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"597","Achillea kellereri",4215997,3065,3119995,"Achillea ×kellereri Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"598","Achillea kellereri",4215997,3065,3119995,"Achillea ×kellereri Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"599","Achillea wilczekiana",4214230,3065,3119995,"Achillea wilczekiana Vacc.","Asterales","Asteraceae","Achillea",NA,NA,2800
+"600","Achillea wilczekiana",4214230,3065,3119995,"Achillea wilczekiana Vacc.","Asterales","Asteraceae","Achillea",NA,NA,2800
+"601","Achillea anthemoides",8424318,3065,3119995,"Achillea anthemoides Willd., 1803","Asterales","Asteraceae","Achillea",NA,NA,NA
+"602","Achillea anthemoides",8424318,3065,3119995,"Achillea anthemoides Willd., 1803","Asterales","Asteraceae","Achillea",NA,NA,NA
+"603","Achillea anthemoides",8424318,3065,3119995,"Achillea anthemoides Willd., 1803","Asterales","Asteraceae","Achillea",NA,NA,NA
+"604","Achillea anthemoides",8424318,3065,3119995,"Achillea anthemoides Willd., 1803","Asterales","Asteraceae","Achillea",NA,NA,1
+"605","Achillea anthemoides",8424318,3065,3119995,"Achillea anthemoides Willd., 1803","Asterales","Asteraceae","Achillea",NA,NA,NA
+"606","Achillea aucheri",3120055,3065,3119995,"Achillea aucheri Boiss.","Asterales","Asteraceae","Achillea",52.1,35.91667,4400
+"607","Achillea aucheri",3120055,3065,3119995,"Achillea aucheri Boiss.","Asterales","Asteraceae","Achillea",52,29,2600
+"608","Achillea aucheri",6303270,3065,3119995,"Achillea aucheri subsp. aucheri","Asterales","Asteraceae","Achillea",NA,NA,2550
+"609","Achillea aucheri",3120055,3065,3119995,"Achillea aucheri Boiss.","Asterales","Asteraceae","Achillea",NA,NA,3850
+"610","Achillea aucheri",3120055,3065,3119995,"Achillea aucheri Boiss.","Asterales","Asteraceae","Achillea",NA,NA,3850
+"611","Achillea auriculata",3120047,3065,3119995,"Achillea auriculata Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"612","Achillea auriculata",3120047,3065,3119995,"Achillea auriculata Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"613","Achillea auriculata",3120047,3065,3119995,"Achillea auriculata Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"614","Achillea auriculata",3120047,3065,3119995,"Achillea auriculata Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"615","Achillea auriculata",3120047,3065,3119995,"Achillea auriculata Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"616","Achillea bucharica",3120390,3065,3119995,"Achillea bucharica C.Winkl.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"617","Achillea bucharica",3120390,3065,3119995,"Achillea bucharica C.Winkl.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"618","Achillea bucharica",3120390,3065,3119995,"Achillea bucharica C.Winkl.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"619","Achillea bucharica",3120390,3065,3119995,"Achillea bucharica C.Winkl.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"620","Achillea bucharica",3120390,3065,3119995,"Achillea bucharica C.Winkl.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"621","Achillea callichroa",3120150,3065,3119995,"Achillea callichroa Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"622","Achillea callichroa",3120150,3065,3119995,"Achillea callichroa Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"623","Achillea callichroa",3120150,3065,3119995,"Achillea callichroa Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"624","Achillea callichroa",3120150,3065,3119995,"Achillea callichroa Boiss.","Asterales","Asteraceae","Achillea",52.53833,29.615,NA
+"625","Achillea callichroa",3120150,3065,3119995,"Achillea callichroa Boiss.","Asterales","Asteraceae","Achillea",52.43333,29.51667,NA
+"626","Achillea cancrini",4216943,3065,3119995,"Achillea cancrini Gruner","Asterales","Asteraceae","Achillea",NA,NA,NA
+"627","Achillea carpatica",3120386,3065,3119995,"Achillea carpatica Blocki ex Dubovik","Asterales","Asteraceae","Achillea",32.616285,51.458811,NA
+"628","Achillea carpatica",3120386,3065,3119995,"Achillea carpatica Blocki ex Dubovik","Asterales","Asteraceae","Achillea",NA,NA,NA
+"629","Achillea carpatica",3120386,3065,3119995,"Achillea carpatica Blocki ex Dubovik","Asterales","Asteraceae","Achillea",NA,NA,NA
+"630","Achillea carpatica",3120386,3065,3119995,"Achillea carpatica Blocki ex Dubovik","Asterales","Asteraceae","Achillea",NA,NA,NA
+"631","Achillea carpatica",3120386,3065,3119995,"Achillea carpatica Blocki ex Dubovik","Asterales","Asteraceae","Achillea",NA,NA,NA
+"632","Achillea castelnavi",4216893,3065,3119995,"Achillea castelnavi Sennen","Asterales","Asteraceae","Achillea",NA,NA,1600
+"633","Achillea castelnavi",4216893,3065,3119995,"Achillea castelnavi Sennen","Asterales","Asteraceae","Achillea",2.09,42.49,1600
+"634","Achillea ceretana",4216887,3065,3119995,"Achillea ceretana Sennen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"635","Achillea ceretana",4216887,3065,3119995,"Achillea ceretana Sennen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"636","Achillea ceretana",4216887,3065,3119995,"Achillea ceretana Sennen","Asterales","Asteraceae","Achillea",NA,NA,1200
+"637","Achillea chamaecyparissus",3120315,3065,3119995,"Achillea chamaecyparissus Sch.Bip., 1855","Asterales","Asteraceae","Achillea",NA,NA,NA
+"638","Achillea chamaecyparissus",9810955,3065,3119995,"Achillea chamaecyparissus var. incana Cham.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"639","Achillea chamaecyparissus",3120315,3065,3119995,"Achillea chamaecyparissus Sch.Bip., 1855","Asterales","Asteraceae","Achillea",NA,NA,NA
+"640","Achillea chamaecyparissus",3120315,3065,3119995,"Achillea chamaecyparissus Sch.Bip., 1855","Asterales","Asteraceae","Achillea",NA,NA,NA
+"641","Achillea chamaecyparissus",3120315,3065,3119995,"Achillea chamaecyparissus Sch.Bip., 1855","Asterales","Asteraceae","Achillea",NA,NA,NA
+"642","Achillea chypeolata",7745713,3065,3119995,"Achillea chypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"643","Achillea chypeolata",7745713,3065,3119995,"Achillea chypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"644","Achillea chypeolata",7745713,3065,3119995,"Achillea chypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"645","Achillea chypeolata",7745713,3065,3119995,"Achillea chypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"646","Achillea chypeolata",7745713,3065,3119995,"Achillea chypeolata Sibth. & Sm.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"647","Achillea crustata",3120144,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"648","Achillea crustata",3120144,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"649","Achillea crustata",3120144,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"650","Achillea crustata",3120144,3065,3119995,"Achillea setacea Waldst. & Kit.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"651","Achillea cuneatiloba",3120372,3065,3119995,"Achillea cuneatiloba Boiss. & Buhse","Asterales","Asteraceae","Achillea",NA,NA,NA
+"652","Achillea cuneatiloba",3120372,3065,3119995,"Achillea cuneatiloba Boiss. & Buhse","Asterales","Asteraceae","Achillea",NA,NA,NA
+"653","Achillea cuneatiloba",3120372,3065,3119995,"Achillea cuneatiloba Boiss. & Buhse","Asterales","Asteraceae","Achillea",NA,NA,NA
+"654","Achillea cuneatiloba",3120372,3065,3119995,"Achillea cuneatiloba Boiss. & Buhse","Asterales","Asteraceae","Achillea",NA,NA,NA
+"655","Achillea cuneatiloba",3120372,3065,3119995,"Achillea cuneatiloba Boiss. & Buhse","Asterales","Asteraceae","Achillea",NA,NA,NA
+"656","Achillea cunoraea",9236287,3065,3119995,"Achillea cunoraea F.K.Mey.","Asterales","Asteraceae","Achillea",NA,NA,1900
+"657","Achillea decolorans",8111647,3065,3119995,"Achillea decolorans Schrad. ex Willd., 1809","Asterales","Asteraceae","Achillea",-104.961468,39.732207,1643
+"658","Achillea decolorans",8111647,3065,3119995,"Achillea decolorans Schrad. ex Willd., 1809","Asterales","Asteraceae","Achillea",10.671,63.434,NA
+"659","Achillea decolorans",8111647,3065,3119995,"Achillea decolorans Schrad. ex Willd., 1809","Asterales","Asteraceae","Achillea",10.671,63.434,NA
+"660","Achillea decolorans",8111647,3065,3119995,"Achillea decolorans Schrad. ex Willd., 1809","Asterales","Asteraceae","Achillea",10.671,63.434,NA
+"661","Achillea decolorans",8111647,3065,3119995,"Achillea decolorans Schrad. ex Willd., 1809","Asterales","Asteraceae","Achillea",-104.961468,39.732207,1643
+"662","Achillea decumbens",3120147,3065,3119995,"Achillea decumbens Lam.","Asterales","Asteraceae","Achillea",NA,NA,1
+"663","Achillea decumbens",3120147,3065,3119995,"Achillea decumbens Lam.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"664","Achillea decumbens",3120147,3065,3119995,"Achillea decumbens Lam.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"665","Achillea decumbens",3120147,3065,3119995,"Achillea decumbens Lam.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"666","Achillea decumbens",3120147,3065,3119995,"Achillea decumbens Lam.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"667","Achillea degenii",4216621,3065,3119995,"Achillea degenii Vilmos","Asterales","Asteraceae","Achillea",NA,NA,NA
+"668","Achillea degenii",4216621,3065,3119995,"Achillea degenii Vilmos","Asterales","Asteraceae","Achillea",NA,NA,NA
+"669","Achillea duffourii",4216528,3065,3119995,"Achillea duffourii Sennen","Asterales","Asteraceae","Achillea",1.97,42.49,1300
+"670","Achillea duffourii",4216528,3065,3119995,"Achillea duffourii Sennen","Asterales","Asteraceae","Achillea",2.09,42.49,1450
+"671","Achillea duffourii",4216528,3065,3119995,"Achillea duffourii Sennen","Asterales","Asteraceae","Achillea",2.09,42.49,1400
+"672","Achillea duffourii",4216528,3065,3119995,"Achillea duffourii Sennen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"673","Achillea duffourii",4216528,3065,3119995,"Achillea duffourii Sennen","Asterales","Asteraceae","Achillea",1.97,42.49,1240
+"674","Achillea dumasiana",4216524,3065,3119995,"Achillea ×dumasiana Vatke","Asterales","Asteraceae","Achillea",NA,NA,NA
+"675","Achillea eriophora",3120176,3065,3119995,"Achillea eriophora DC.","Asterales","Asteraceae","Achillea",52,29,NA
+"676","Achillea eriophora",3120176,3065,3119995,"Achillea eriophora DC.","Asterales","Asteraceae","Achillea",NA,NA,2600
+"677","Achillea eriophora",3120176,3065,3119995,"Achillea eriophora DC.","Asterales","Asteraceae","Achillea",NA,NA,2600
+"678","Achillea eriophora",3120176,3065,3119995,"Achillea eriophora DC.","Asterales","Asteraceae","Achillea",56.433333,28.833333,2850
+"679","Achillea eriophora",3120176,3065,3119995,"Achillea eriophora DC.","Asterales","Asteraceae","Achillea",60.1,28.033333,1700
+"680","Achillea falcata",3120254,3065,3119995,"Achillea falcata L.","Asterales","Asteraceae","Achillea",35.769271,33.312126,NA
+"681","Achillea falcata",3120254,3065,3119995,"Achillea falcata L.","Asterales","Asteraceae","Achillea",35.786302,33.313028,NA
+"682","Achillea falcata",3120254,3065,3119995,"Achillea falcata L.","Asterales","Asteraceae","Achillea",35.808515,33.317046,NA
+"683","Achillea falcata",3120254,3065,3119995,"Achillea falcata L.","Asterales","Asteraceae","Achillea",35.467861,30.416116,NA
+"684","Achillea falcata",3120254,3065,3119995,"Achillea falcata L.","Asterales","Asteraceae","Achillea",36.162674,34.39571,NA
+"685","Achillea flosculosa",4216383,3065,3119995,"Achillea flosculosa Desf.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"686","Achillea flosculosa",4216383,3065,3119995,"Achillea flosculosa Desf.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"687","Achillea flosculosa",4216383,3065,3119995,"Achillea flosculosa Desf.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"688","Achillea flosculosa",4216383,3065,3119995,"Achillea flosculosa Desf.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"689","Achillea flosculosa",4216383,3065,3119995,"Achillea flosculosa Desf.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"690","Achillea getica",4216296,3065,3119995,"Achillea getica Grecescu","Asterales","Asteraceae","Achillea",NA,NA,NA
+"691","Achillea getica",4216296,3065,3119995,"Achillea getica Grecescu","Asterales","Asteraceae","Achillea",NA,NA,90
+"692","Achillea getica",4216296,3065,3119995,"Achillea getica Grecescu","Asterales","Asteraceae","Achillea",NA,NA,NA
+"693","Achillea grisebachii",4216211,3065,3119995,"Achillea ×grisebachii Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"694","Achillea griseovirens",6077432,3065,3119995,"Achillea griseovirens Albov","Asterales","Asteraceae","Achillea",NA,NA,NA
+"695","Achillea griseovirens",6077432,3065,3119995,"Achillea griseovirens Albov","Asterales","Asteraceae","Achillea",41.986389,41.298611,NA
+"696","Achillea griseovirens",6077432,3065,3119995,"Achillea griseovirens Albov","Asterales","Asteraceae","Achillea",NA,NA,NA
+"697","Achillea helvetica",3119997,3065,3119995,"Achillea ×valesiaca Suter","Asterales","Asteraceae","Achillea",NA,NA,NA
+"698","Achillea heterophylla",3120400,3065,3119995,"Achillea heterophylla Spreng.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"699","Achillea heterophylla",3120400,3065,3119995,"Achillea heterophylla Spreng.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"700","Achillea hybrida",4216102,3065,3119995,"Achillea hybrida Gaud.","Asterales","Asteraceae","Achillea",7.92917,46.10917,2000
+"701","Achillea hybrida",4216102,3065,3119995,"Achillea hybrida Gaud.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"702","Achillea hybrida",4216102,3065,3119995,"Achillea hybrida Gaud.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"703","Achillea hybrida",4216102,3065,3119995,"Achillea hybrida Gaud.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"704","Achillea hybrida",4216102,3065,3119995,"Achillea hybrida Gaud.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"705","Achillea intermedia",7627347,3065,3119995,"Achillea intermedia Heimerl","Asterales","Asteraceae","Achillea",NA,NA,NA
+"706","Achillea intermedia",7627347,3065,3119995,"Achillea intermedia Heimerl","Asterales","Asteraceae","Achillea",NA,NA,2500
+"707","Achillea intermedia",7627347,3065,3119995,"Achillea intermedia Heimerl","Asterales","Asteraceae","Achillea",NA,NA,2500
+"708","Achillea jankae",4216032,3065,3119995,"Achillea jankae Sch.Bip. ex Nyman","Asterales","Asteraceae","Achillea",NA,NA,NA
+"709","Achillea joffrei",4216007,3065,3119995,"Achillea joffrei Sennen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"710","Achillea joffrei",4216007,3065,3119995,"Achillea joffrei Sennen","Asterales","Asteraceae","Achillea",1.9758,42.4697,1200
+"711","Achillea karatavica",3120265,3065,3119995,"Achillea karatavica Kamelin","Asterales","Asteraceae","Achillea",NA,NA,NA
+"712","Achillea kellalensis",3120278,3065,3119995,"Achillea kellalensis Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"713","Achillea kellalensis",3120278,3065,3119995,"Achillea kellalensis Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"714","Achillea kellalensis",3120278,3065,3119995,"Achillea kellalensis Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"715","Achillea kellalensis",3120132,3065,3119995,"Achillea kellalensis Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",50.86667,30.88333,2438
+"716","Achillea kellalensis",3120278,3065,3119995,"Achillea kellalensis Boiss. & Hausskn.","Asterales","Asteraceae","Achillea",NA,NA,2400
+"717","Achillea kerneri",4215990,3065,3119995,"Achillea ×kerneri Halácsy","Asterales","Asteraceae","Achillea",NA,NA,2000
+"718","Achillea kolbiana",4215979,3065,3119995,"Achillea ×kolbiana Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"719","Achillea kolbiana",4215979,3065,3119995,"Achillea ×kolbiana Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"720","Achillea kolbiana",4215979,3065,3119995,"Achillea ×kolbiana Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"721","Achillea ledebourii",3120164,3065,3119995,"Achillea ledebourii Heimerl","Asterales","Asteraceae","Achillea",83.00877,51.093736,NA
+"722","Achillea ledebourii",3120164,3065,3119995,"Achillea ledebourii Heimerl","Asterales","Asteraceae","Achillea",83.049981,51.137187,NA
+"723","Achillea ledebourii",3120164,3065,3119995,"Achillea ledebourii Heimerl","Asterales","Asteraceae","Achillea",83.050199,51.134659,NA
+"724","Achillea ledebourii",3120164,3065,3119995,"Achillea ledebourii Heimerl","Asterales","Asteraceae","Achillea",83.012276,51.096497,NA
+"725","Achillea ledebourii",3120164,3065,3119995,"Achillea ledebourii Heimerl","Asterales","Asteraceae","Achillea",82.997025,51.07172,NA
+"726","Achillea lobata",4215817,3065,3119995,"Achillea lobata Forssk.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"727","Achillea macedonica",4215792,3065,3119995,"Achillea macedonica Rouy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"728","Achillea major",4215747,3065,3119995,"Achillea major Heimerl","Asterales","Asteraceae","Achillea",NA,NA,NA
+"729","Achillea maxima",7719854,3065,3119995,"Achillea ×maxima Heuff.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"730","Achillea micranthoides",3120148,3065,3119995,"Achillea micranthoides Klokov","Asterales","Asteraceae","Achillea",34.0592,46.481317,NA
+"731","Achillea micranthoides",3120148,3065,3119995,"Achillea micranthoides Klokov","Asterales","Asteraceae","Achillea",33.706863,46.678666,NA
+"732","Achillea micranthoides",3120148,3065,3119995,"Achillea micranthoides Klokov","Asterales","Asteraceae","Achillea",34.053467,46.766694,NA
+"733","Achillea micranthoides",3120148,3065,3119995,"Achillea micranthoides Klokov","Asterales","Asteraceae","Achillea",34.0579,46.481133,NA
+"734","Achillea micranthoides",3120148,3065,3119995,"Achillea micranthoides Klokov","Asterales","Asteraceae","Achillea",34.058217,46.4808,NA
+"735","Achillea montana",4215456,3065,3119995,"Achillea montana Schleich. ex DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"736","Achillea montana",4215456,3065,3119995,"Achillea montana Schleich. ex DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"737","Achillea montana",4215456,3065,3119995,"Achillea montana Schleich. ex DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"738","Achillea montana",4215456,3065,3119995,"Achillea montana Schleich. ex DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"739","Achillea montana",4215456,3065,3119995,"Achillea montana Schleich. ex DC.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"740","Achillea mucronulata",7865551,3065,3119995,"Achillea mucronulata Bertol.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"741","Achillea mucronulata",7865551,3065,3119995,"Achillea mucronulata Bertol.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"742","Achillea mucronulata",7865551,3065,3119995,"Achillea mucronulata Bertol.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"743","Achillea odorata",7674113,3065,3119995,"Achillea odorata L.","Asterales","Asteraceae","Achillea",6.135556,44.697778,NA
+"744","Achillea odorata",7674113,3065,3119995,"Achillea odorata L.","Asterales","Asteraceae","Achillea",2.562358,47.643881,NA
+"745","Achillea odorata",7674113,3065,3119995,"Achillea odorata L.","Asterales","Asteraceae","Achillea",2.35868,48.843991,NA
+"746","Achillea odorata",7674113,3065,3119995,"Achillea odorata L.","Asterales","Asteraceae","Achillea",3.136931,50.218958,NA
+"747","Achillea odorata",7674113,3065,3119995,"Achillea odorata L.","Asterales","Asteraceae","Achillea",2.5735,42.67376,480
+"748","Achillea oxyodonta",3120146,3065,3119995,"Achillea oxyodonta Boiss.","Asterales","Asteraceae","Achillea",NA,NA,2900
+"749","Achillea oxyodonta",3120146,3065,3119995,"Achillea oxyodonta Boiss.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"750","Achillea oxyodonta",3120146,3065,3119995,"Achillea oxyodonta Boiss.","Asterales","Asteraceae","Achillea",NA,NA,2200
+"751","Achillea oxyodonta",3120146,3065,3119995,"Achillea oxyodonta Boiss.","Asterales","Asteraceae","Achillea",NA,NA,2200
+"752","Achillea oxyodonta",3120146,3065,3119995,"Achillea oxyodonta Boiss.","Asterales","Asteraceae","Achillea",NA,NA,2200
+"753","Achillea pachycephala",3120174,3065,3119995,"Achillea pachycephala Rech.fil.","Asterales","Asteraceae","Achillea",58.511944,37.106389,NA
+"754","Achillea pachycephala",3120174,3065,3119995,"Achillea pachycephala Rech.fil.","Asterales","Asteraceae","Achillea",NA,NA,1500
+"755","Achillea pachycephala",3120174,3065,3119995,"Achillea pachycephala Rech.fil.","Asterales","Asteraceae","Achillea",NA,NA,1500
+"756","Achillea pachycephala",3120174,3065,3119995,"Achillea pachycephala Rech.fil.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"757","Achillea pachycephala",3120174,3065,3119995,"Achillea pachycephala Rech.fil.","Asterales","Asteraceae","Achillea",NA,NA,1500
+"758","Achillea pallescens",7900952,3065,3119995,"Achillea pallescens L., 1759","Asterales","Asteraceae","Achillea",NA,NA,NA
+"759","Achillea pallescens",7900952,3065,3119995,"Achillea pallescens L., 1759","Asterales","Asteraceae","Achillea",NA,NA,NA
+"760","Achillea pallescens",7900952,3065,3119995,"Achillea pallescens L., 1759","Asterales","Asteraceae","Achillea",NA,NA,NA
+"761","Achillea paradoxa",4215187,3065,3119995,"Achillea paradoxa Bernh. ex Colla","Asterales","Asteraceae","Achillea",NA,NA,NA
+"762","Achillea pastricensis",3120318,3065,3119995,"Achillea pastricensis Heimerl","Asterales","Asteraceae","Achillea",20.514167,42.224167,NA
+"763","Achillea pastricensis",3120318,3065,3119995,"Achillea pastricensis Heimerl","Asterales","Asteraceae","Achillea",NA,NA,1800
+"764","Achillea pastricensis",3120318,3065,3119995,"Achillea pastricensis Heimerl","Asterales","Asteraceae","Achillea",NA,NA,NA
+"765","Achillea pastricensis",3120318,3065,3119995,"Achillea pastricensis Heimerl","Asterales","Asteraceae","Achillea",42.22638,20.57587,NA
+"766","Achillea pilosa",4215124,3065,3119995,"Achillea pilosa Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"767","Achillea pilosa",4215124,3065,3119995,"Achillea pilosa Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"768","Achillea pilosa",4215124,3065,3119995,"Achillea pilosa Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"769","Achillea pilosa",4215124,3065,3119995,"Achillea pilosa Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"770","Achillea pilosa",4215124,3065,3119995,"Achillea pilosa Willd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"771","Achillea pseudogenepi",3120116,3065,3119995,"Achillea ×pseudogenepi Delavay ex E.P.Perrier","Asterales","Asteraceae","Achillea",NA,NA,NA
+"772","Achillea pseudogenepi",3120116,3065,3119995,"Achillea ×pseudogenepi Delavay ex E.P.Perrier","Asterales","Asteraceae","Achillea",9.51361,46.47417,2200
+"773","Achillea pseudogenepi",3120116,3065,3119995,"Achillea ×pseudogenepi Delavay ex E.P.Perrier","Asterales","Asteraceae","Achillea",NA,NA,NA
+"774","Achillea pseudogenepi",3120116,3065,3119995,"Achillea ×pseudogenepi Delavay ex E.P.Perrier","Asterales","Asteraceae","Achillea",NA,NA,NA
+"775","Achillea pseudogenepi",3120116,3065,3119995,"Achillea ×pseudogenepi Delavay ex E.P.Perrier","Asterales","Asteraceae","Achillea",NA,NA,NA
+"776","Achillea pubescens",8787484,3065,3119995,"Achillea pubescens L., 1753","Asterales","Asteraceae","Achillea",NA,NA,NA
+"777","Achillea pubescens",8787484,3065,3119995,"Achillea pubescens L., 1753","Asterales","Asteraceae","Achillea",NA,NA,NA
+"778","Achillea pubescens",8787484,3065,3119995,"Achillea pubescens L., 1753","Asterales","Asteraceae","Achillea",NA,NA,NA
+"779","Achillea pubescens",8787484,3065,3119995,"Achillea pubescens L., 1753","Asterales","Asteraceae","Achillea",NA,NA,NA
+"780","Achillea pubescens",8787484,3065,3119995,"Achillea pubescens L., 1753","Asterales","Asteraceae","Achillea",NA,NA,NA
+"781","Achillea reichardtiana",4214931,3065,3119995,"Achillea ×reichardtiana Beck","Asterales","Asteraceae","Achillea",NA,NA,NA
+"782","Achillea reichardtiana",4214931,3065,3119995,"Achillea ×reichardtiana Beck","Asterales","Asteraceae","Achillea",NA,NA,NA
+"783","Achillea reichardtiana",4214931,3065,3119995,"Achillea ×reichardtiana Beck","Asterales","Asteraceae","Achillea",NA,NA,NA
+"784","Achillea rupestris",4214867,3065,3119995,"Achillea rupestris subsp. calcarea (Huter, Porta & Rigo) Greuter","Asterales","Asteraceae","Achillea",16.29019,39.91097,NA
+"785","Achillea rupestris",4216479,3065,3119995,"Achillea rupestris subsp. calcarea (Huter, Porta & Rigo) Greuter","Asterales","Asteraceae","Achillea",NA,NA,1450
+"786","Achillea rupestris",4216479,3065,3119995,"Achillea rupestris subsp. calcarea (Huter, Porta & Rigo) Greuter","Asterales","Asteraceae","Achillea",NA,NA,1390
+"787","Achillea rupestris",4216978,3065,3119995,"Achillea rupestris subsp. calcarea (Huter, Porta & Rigo) Greuter","Asterales","Asteraceae","Achillea",15.80278,40.52417,1400
+"788","Achillea rupestris",7470028,3065,3119995,"Achillea rupestris Porta","Asterales","Asteraceae","Achillea",16.21583,39.81944,900
+"789","Achillea ruscinonensis",4214857,3065,3119995,"Achillea ×ruscinonensis Rouy","Asterales","Asteraceae","Achillea",1.9758,42.4697,1250
+"790","Achillea ruscinonensis",4214857,3065,3119995,"Achillea ×ruscinonensis Rouy","Asterales","Asteraceae","Achillea",2.09,42.49,1500
+"791","Achillea ruscinonensis",4214857,3065,3119995,"Achillea ×ruscinonensis Rouy","Asterales","Asteraceae","Achillea",1.72,42.58,NA
+"792","Achillea ruscinonensis",4214857,3065,3119995,"Achillea ×ruscinonensis Rouy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"793","Achillea ruscinonensis",4214857,3065,3119995,"Achillea ×ruscinonensis Rouy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"794","Achillea schneideri",3120220,3065,3119995,"Achillea ×schneideri Rouy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"795","Achillea schneideri",3120220,3065,3119995,"Achillea ×schneideri Rouy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"796","Achillea schneideri",3120220,3065,3119995,"Achillea ×schneideri Rouy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"797","Achillea schneideri",3120220,3065,3119995,"Achillea ×schneideri Rouy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"798","Achillea schneideri",3120220,3065,3119995,"Achillea ×schneideri Rouy","Asterales","Asteraceae","Achillea",NA,NA,NA
+"799","Achillea schugnanica",3120263,3065,3119995,"Achillea schugnanica C.Winkl.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"800","Achillea serrata",7865433,3065,3119995,"Achillea ×serrata Retz.","Asterales","Asteraceae","Achillea",-123.25,49.25,NA
+"801","Achillea serrata",7865433,3065,3119995,"Achillea ×serrata Retz.","Asterales","Asteraceae","Achillea",-123.25,49.25,NA
+"802","Achillea serrata",3120177,3065,3119995,"Achillea ×serrata Retz.","Asterales","Asteraceae","Achillea",-0.187849,51.819654,NA
+"803","Achillea serrata",7865433,3065,3119995,"Achillea ×serrata Retz.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"804","Achillea serrata",7865433,3065,3119995,"Achillea ×serrata Retz.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"805","Achillea sinensis",3120131,3065,3119995,"Achillea alpina L.","Asterales","Asteraceae","Achillea",114.714432,39.364854,NA
+"806","Achillea sinensis",3120131,3065,3119995,"Achillea alpina L.","Asterales","Asteraceae","Achillea",114.630747,39.879848,NA
+"807","Achillea sinensis",3120131,3065,3119995,"Achillea alpina L.","Asterales","Asteraceae","Achillea",115.226208,40.082578,NA
+"808","Achillea spinosa",4214542,3065,3119995,"Achillea spinosa Schur","Asterales","Asteraceae","Achillea",NA,NA,NA
+"809","Achillea squarrosa",8326422,3065,3119995,"Achillea squarrosa Hassk.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"810","Achillea squarrosa",8326422,3065,3119995,"Achillea squarrosa Hassk.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"811","Achillea squarrosa",8326422,3065,3119995,"Achillea squarrosa Hassk.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"812","Achillea stepposa",3120015,3065,3119995,"Achillea stepposa Klokov & Krytzka","Asterales","Asteraceae","Achillea",30.553639,50.391241,NA
+"813","Achillea stepposa",3120015,3065,3119995,"Achillea stepposa Klokov & Krytzka","Asterales","Asteraceae","Achillea",72.90486,49.50681,624
+"814","Achillea stepposa",3120015,3065,3119995,"Achillea stepposa Klokov & Krytzka","Asterales","Asteraceae","Achillea",36.612633,45.402817,NA
+"815","Achillea stepposa",3120015,3065,3119995,"Achillea stepposa Klokov & Krytzka","Asterales","Asteraceae","Achillea",36.569889,45.437292,NA
+"816","Achillea stepposa",3120015,3065,3119995,"Achillea stepposa Klokov & Krytzka","Asterales","Asteraceae","Achillea",36.641231,45.383592,NA
+"817","Achillea strictifolia",4214512,3065,3119995,"Achillea strictifolia Sennen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"818","Achillea strictifolia",4214512,3065,3119995,"Achillea strictifolia Sennen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"819","Achillea strictifolia",4214512,3065,3119995,"Achillea strictifolia Sennen","Asterales","Asteraceae","Achillea",NA,NA,NA
+"820","Achillea strictifolia",4214512,3065,3119995,"Achillea strictifolia Sennen","Asterales","Asteraceae","Achillea",NA,NA,1150
+"821","Achillea submicrantha",3119998,3065,3119995,"Achillea ×submicrantha Tzvelev","Asterales","Asteraceae","Achillea",41.333748,49.800171,NA
+"822","Achillea submicrantha",3119998,3065,3119995,"Achillea ×submicrantha Tzvelev","Asterales","Asteraceae","Achillea",44.053475,49.139406,NA
+"823","Achillea submicrantha",3119998,3065,3119995,"Achillea ×submicrantha Tzvelev","Asterales","Asteraceae","Achillea",41.338333,49.785833,NA
+"824","Achillea submicrantha",3119998,3065,3119995,"Achillea ×submicrantha Tzvelev","Asterales","Asteraceae","Achillea",51.99475,52.985861,NA
+"825","Achillea submicrantha",3119998,3065,3119995,"Achillea ×submicrantha Tzvelev","Asterales","Asteraceae","Achillea",52.127666,52.995355,NA
+"826","Achillea talagonica",3120211,3065,3119995,"Achillea talagonica Boiss.","Asterales","Asteraceae","Achillea",50.58,36.17,NA
+"827","Achillea talagonica",7066425,3065,3119995,"Achillea talagonica var. talagonica","Asterales","Asteraceae","Achillea",NA,NA,NA
+"828","Achillea talagonica",3120211,3065,3119995,"Achillea talagonica Boiss.","Asterales","Asteraceae","Achillea",NA,NA,1524
+"829","Achillea talagonica",3120211,3065,3119995,"Achillea talagonica Boiss.","Asterales","Asteraceae","Achillea",NA,NA,1524
+"830","Achillea talagonica",3120211,3065,3119995,"Achillea talagonica Boiss.","Asterales","Asteraceae","Achillea",NA,NA,2200
+"831","Achillea taygetea",6077437,3065,3119995,"Achillea taygetea Boiss. & Heldr.","Asterales","Asteraceae","Achillea",-121.09417,39.04222,421
+"832","Achillea taygetea",3120171,3065,3119995,"Achillea taygetea Boiss. & Heldr.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"833","Achillea taygetea",3120171,3065,3119995,"Achillea taygetea Boiss. & Heldr.","Asterales","Asteraceae","Achillea",-104.961468,39.732207,1643
+"834","Achillea taygetea",3120171,3065,3119995,"Achillea taygetea Boiss. & Heldr.","Asterales","Asteraceae","Achillea",NA,NA,2133
+"835","Achillea taygetea",3120171,3065,3119995,"Achillea taygetea Boiss. & Heldr.","Asterales","Asteraceae","Achillea",-104.961468,39.732207,1643
+"836","Achillea thomasiana",9436049,3065,3119995,"Achillea thomasiana Hall.f. ex Murith","Asterales","Asteraceae","Achillea",NA,NA,1860
+"837","Achillea thomasiana",9436049,3065,3119995,"Achillea thomasiana Hall.f. ex Murith","Asterales","Asteraceae","Achillea",NA,NA,NA
+"838","Achillea thomasiana",4214400,3065,3119995,"Achillea thomasiana Hall.f. ex Murith","Asterales","Asteraceae","Achillea",NA,NA,NA
+"839","Achillea thomasiana",4214400,3065,3119995,"Achillea thomasiana Hall.f. ex Murith","Asterales","Asteraceae","Achillea",NA,NA,NA
+"840","Achillea thomasiana",4214400,3065,3119995,"Achillea thomasiana Hall.f. ex Murith","Asterales","Asteraceae","Achillea",NA,NA,NA
+"841","Achillea tomentosa",7787053,3065,3119995,"Achillea tomentosa L.","Asterales","Asteraceae","Achillea",7.79584,46.34333,1378.5
+"842","Achillea tomentosa",7787053,3065,3119995,"Achillea tomentosa L.","Asterales","Asteraceae","Achillea",7.99068,46.34255,1033.5
+"843","Achillea tomentosa",7787053,3065,3119995,"Achillea tomentosa L.","Asterales","Asteraceae","Achillea",7.99068,46.34255,1085
+"844","Achillea tomentosa",7787053,3065,3119995,"Achillea tomentosa L.","Asterales","Asteraceae","Achillea",7.99068,46.34255,1030
+"845","Achillea tomentosa",7787053,3065,3119995,"Achillea tomentosa L.","Asterales","Asteraceae","Achillea",7.99068,46.34255,1068.5
+"846","Achillea umbellata",7407227,3065,3119995,"Achillea umbellata Sibth. & Sm.","Asterales","Asteraceae","Achillea",21.3051,41.9433,NA
+"847","Achillea umbellata",6303222,3065,3119995,"Achillea umbellata subsp. umbellata","Asterales","Asteraceae","Achillea",22.26,37.65,1950
+"848","Achillea umbellata",6303222,3065,3119995,"Achillea umbellata subsp. umbellata","Asterales","Asteraceae","Achillea",22.4,37.92,1975
+"849","Achillea umbellata",6303222,3065,3119995,"Achillea umbellata subsp. umbellata","Asterales","Asteraceae","Achillea",22.19,37.97,2130
+"850","Achillea umbellata",7407227,3065,3119995,"Achillea umbellata Sibth. & Sm.","Asterales","Asteraceae","Achillea",22.1944,37.9775,NA
+"851","Achillea valesiaca",3119996,3065,3119995,"Achillea ×valesiaca Suter","Asterales","Asteraceae","Achillea",NA,NA,NA
+"852","Achillea valesiaca",3119997,3065,3119995,"Achillea ×valesiaca Suter","Asterales","Asteraceae","Achillea",NA,NA,NA
+"853","Achillea valesiaca",3119996,3065,3119995,"Achillea ×valesiaca Suter","Asterales","Asteraceae","Achillea",NA,NA,NA
+"854","Achillea valesiaca",3119996,3065,3119995,"Achillea ×valesiaca Suter","Asterales","Asteraceae","Achillea",NA,NA,NA
+"855","Achillea valesiaca",3119996,3065,3119995,"Achillea ×valesiaca Suter","Asterales","Asteraceae","Achillea",NA,NA,NA
+"856","Achillea vandasii",4214288,3065,3119995,"Achillea vandasii Velen.","Asterales","Asteraceae","Achillea",NA,NA,400
+"857","Achillea vandasii",4214288,3065,3119995,"Achillea vandasii Velen.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"858","Achillea vandasii",4214288,3065,3119995,"Achillea vandasii Velen.","Asterales","Asteraceae","Achillea",21.95333,44.31,NA
+"859","Achillea vandasii",4214288,3065,3119995,"Achillea vandasii Velen.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"860","Achillea vandasii",4214288,3065,3119995,"Achillea vandasii Velen.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"861","Achillea wilczekii",7485311,3065,3119995,"Achillea ×wilczekii Sünd.","Asterales","Asteraceae","Achillea",NA,NA,NA
+"862","Ptarmica kamtschatica",4215738,3065,3141031,"Ptarmica kamtschatica Rupr. ex Kom.","Asterales","Asteraceae","Ptarmica",154.82295,49.38829,NA
+"863","Ptarmica kamtschatica",4215738,3065,3141031,"Ptarmica kamtschatica Rupr. ex Kom.","Asterales","Asteraceae","Ptarmica",142.81855,54.274833,24
+"864","Ptarmica kamtschatica",4215738,3065,3141031,"Ptarmica kamtschatica Rupr. ex Kom.","Asterales","Asteraceae","Ptarmica",142.967533,54.0288,NA
+"865","Ptarmica kamtschatica",4215738,3065,3141031,"Ptarmica kamtschatica Rupr. ex Kom.","Asterales","Asteraceae","Ptarmica",142.81855,54.274833,23
+"866","Ptarmica kamtschatica",4215738,3065,3141031,"Ptarmica kamtschatica Rupr. ex Kom.","Asterales","Asteraceae","Ptarmica",NA,NA,NA
+"867","Ptarmica thomasiana",4215533,3065,3141031,"Ptarmica thomasiana DC.","Asterales","Asteraceae","Ptarmica",6.47449,45.82368,NA
