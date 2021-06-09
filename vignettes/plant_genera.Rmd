@@ -140,10 +140,6 @@ name_gbif$data
 Next, we will do it in a loop:
 
 ```{r}
-
-# create an empty list to hold results in
-subtaxa_gbif_all <- vector(mode = "list")
-
 # for each phylo object i
 for (i in 1:length(subtaxa_name)){
   print(i)
@@ -175,11 +171,11 @@ for (i in 1:length(subtaxa_name)){
   }
   # use subtaxon names to name the list of results for all subtaxa in taxa
   names(subtaxa_gbif) <- subtaxa_name[[i]]
-  # concatenate results for each taxon
-  subtaxa_gbif_all <- c(subtaxa_gbif_all, subtaxa_gbif)
+  # save results as an R object with name = names(subtaxa_name)[i]
+  assign(names(subtaxa_name)[i], get("subtaxa_gbif"))
+  save(list = names(subtaxa_name)[i], file = paste0("../data-raw/", names(subtaxa_name)[i], ".RData"))
 }
-#use taxon names to name the list of results for all taxa
-names(subtaxa_gbif_all) <- names(subtaxa_name)
+
 ```
 
 ```{r}
