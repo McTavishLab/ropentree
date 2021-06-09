@@ -152,8 +152,17 @@ for (i in 1:length(subtaxa_name)){
     name <- gsub("_", " ", name)
     # get gbif records for "name", with a try
     name_gbif <- try(rgbif::occ_search(scientificName = name, 
-                                   fields=c('name','decimalLatitude', 'decimalLongitude'),
-                                   limit = 10))
+                                   fields=c('order',
+                                            'family',
+                                            'genus',
+                                            'acceptedScientificName',
+                                            'decimalLatitude', 
+                                            'decimalLongitude', 
+                                            "elevation", 
+                                            "familyKey", 
+                                            "genusKey", 
+                                            "taxonKey"),
+                                   limit = 5))
     # if try was successful and produced a gbif object
     # and data is not empty (i.e., there are gbif records for "name")
     if(inherits(name_gbif, "gbif") & !is.null(name_gbif$data)){
@@ -162,8 +171,7 @@ for (i in 1:length(subtaxa_name)){
       if(nrow(name_gbif$data)){
         # create a data frame object containing "name" and gbif data for "name"
         name_gbif <- cbind(name, name_gbif$data)
-        # add column names to the data frame
-        colnames(name_gbif)<-c("species","Longitude","Latitude")
+        
       }
     }
   # concatenate the result of each "name" into a list
@@ -174,6 +182,11 @@ for (i in 1:length(subtaxa_name)){
   # save results as an R object with name = names(subtaxa_name)[i]
   assign(names(subtaxa_name)[i], get("subtaxa_gbif"))
   save(list = names(subtaxa_name)[i], file = paste0("../data-raw/", names(subtaxa_name)[i], ".RData"))
+  # which ones are data frames
+  is_data <- sapply(subtaxa_gbif, class) %in% "data.frame"
+  # merge all data into a single table
+  tab <- dplyr::bind_rows(subtaxa_gbif[is_data])
+  write.csv(tab, file = paste0("../data-raw/", names(subtaxa_name)[i], ".csv"))
 }
 
 ```
