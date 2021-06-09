@@ -55,7 +55,7 @@ subtree_taxon1
 
 The function just allows one OTT id at a time, to get all subtrees at once, we can use a for loop or a handy `lapply` function.
 
-```{r}
+```{r, error=TRUE}
 subtree_taxa_all_name <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "name")
 subtree_taxa_all_id <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "id")
 ```
@@ -87,13 +87,13 @@ length(subtree_taxa_all_name)
 Check which ones errored and which ones produced a subtree:
 
 ```{r}
-sapply(subtree_taxa_all, class)
+sapply(subtree_taxa_all_name, class)
 
-is_error <-   sapply(subtree_taxa_all, class) %in% "try-error"
-is_phylo <-   sapply(subtree_taxa_all, class) %in% "phylo"
+is_error <-   sapply(subtree_taxa_all_name, class) %in% "try-error"
+is_phylo <-   sapply(subtree_taxa_all_name, class) %in% "phylo"
 ```
 
-Out of the `r length(subtree_taxa_all)` taxon OTT ids tried, `r sum(is_error)` were unsuccessful and the remainder `r sum(is_phylo)` retrieved a subtree successfully.
+Out of the `r length(subtree_taxa_all_name)` taxon OTT ids tried, `r sum(is_error)` were unsuccessful and the remainder `r sum(is_phylo)` retrieved a subtree successfully.
 
 We will make a new list object containing subtrees only, excluding the errors:
 
