@@ -56,7 +56,7 @@ subtree_taxon1
 The function just allows one OTT id at a time, to get all subtrees at once, we can use a for loop or a handy `lapply` function.
 
 ```{r}
-subtree_taxa_all_name <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "")
+subtree_taxa_all_name <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "name")
 subtree_taxa_all_id <- lapply(taxa_ott_ids, rotl::tol_subtree, label_format = "id")
 ```
 It is easier to catch errors with a for loop:
@@ -139,7 +139,7 @@ name_gbif$data
 
 Next, we will do it in a loop:
 
-```{r}
+```{r, eval=FALSE}
 # for each phylo object i
 for (i in 1:length(subtaxa_name)){
   print(i)
