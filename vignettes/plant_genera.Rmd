@@ -100,9 +100,11 @@ We will make a new list object containing subtrees only, excluding the errors:
 ```{r}
 subtree_taxa_phylo_name <- subtree_taxa_all_name[is_phylo]
 length(subtree_taxa_phylo_name)
+names(subtree_taxa_phylo_name) <- taxa[is_phylo]
 
 subtree_taxa_phylo_id <- subtree_taxa_all_id[is_phylo]
 length(subtree_taxa_phylo_id)
+names(subtree_taxa_phylo_id) <- taxa[is_phylo]
 
 ```
 Now, we can make a vector containing all taxon names that are tip labels in the synthetic subtrees:
@@ -110,9 +112,11 @@ Now, we can make a vector containing all taxon names that are tip labels in the 
 ```{r}
 subtaxa_name <- sapply(subtree_taxa_phylo_name, "[", "tip.label")
 length(subtaxa_name)
+names(subtaxa_name) <- names(subtree_taxa_phylo_name)
 
 subtaxa_id <- sapply(subtree_taxa_phylo_id, "[", "tip.label")
 length(subtaxa_id)
+names(subtaxa_id) <- names(subtree_taxa_phylo_id)
 subtaxa_id[1]
 ```
 
@@ -128,25 +132,50 @@ Let's try it first with the scientific names in `subtaxa_name`:
 
 name <- gsub("_", " ", subtaxa_name[[1]][1])
 name_gbif <- rgbif::occ_search(scientificName = name, fields=c('name','decimalLatitude', 'decimalLongitude'), limit = 100)
+ls(name_gbif)
+ls(name_gbif$data)
 name_gbif$data
 ```
 
-Next, do it in a loop:
+Next, we will do it in a loop:
 
 ```{r}
 
+# create an empty list to hold results in
+subtaxa_gbif_all <- vector(mode = "list")
+
+# for each phylo object i
 for (i in 1:length(subtaxa_name)){
-  
+  print(i)
+  # create an empty list to hold results
+  subtaxa_gbif <- vector(mode = "list")
+  # for each tip label "name" in phylo object i
   for (name in subtaxa_name[[i]]){
-      name <- gsub("_", " ", name)
-      name_gbif <- try(rgbif::occ_search(scientificName = name, 
-                                     fields=c('name','decimalLatitude', 'decimalLongitude'),
-                                     limit = 100))
-      name_gbif$data
-
+    print(name)
+    # replace underscores by spaces in name
+    name <- gsub("_", " ", name)
+    # get gbif records for "name", with a try
+    name_gbif <- try(rgbif::occ_search(scientificName = name, 
+                                   fields=c('name','decimalLatitude', 'decimalLongitude'),
+                                   limit = 10))
+    # if try was successful and produced a gbif object
+    # and data is not empty (i.e., there are gbif records for "name")
+    if(inherits(name_gbif, "gbif") & !is.null(name_gbif$data)){
+      # create a data frame object containing "name" and gbif data for "name"
+      name_gbif <- cbind(name, name_gbif$data)
+      # add column names to the data frame
+      colnames(name_gbif)<-c("species","Longitude","Latitude")
+    }
+  # concatenate the result of each "name" into a list
+  subtaxa_gbif <- c(subtaxa_gbif, list(name_gbif))
   }
-  
+  # use subtaxon names to name the list of results for all subtaxa in taxa
+  names(subtaxa_gbif) <- subtaxa_name[[i]]
+  # concatenate results for each taxon
+  subtaxa_gbif_all <- c(subtaxa_gbif_all, subtaxa_gbif)
 }
-
+#use taxon names to name the list of results for all taxa
+names(subtaxa_gbif_all) <- names(subtaxa_name)
 ```
 
+```{r}
