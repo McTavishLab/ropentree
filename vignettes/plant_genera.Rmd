@@ -107,6 +107,15 @@ length(subtree_taxa_phylo_id)
 names(subtree_taxa_phylo_id) <- taxa[is_phylo]
 
 ```
+
+Save the trees:
+
+```{r}
+assign("subtrees", get("subtree_taxa_phylo_name"))
+save(list = "subtrees", file = "../data-raw/subtrees.RData")
+```
+
+
 Now, we can make a vector containing all taxon names that are tip labels in the synthetic subtrees:
 
 ```{r}
