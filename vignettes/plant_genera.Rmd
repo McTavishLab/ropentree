@@ -161,10 +161,14 @@ for (i in 1:length(subtaxa_name)){
     # if try was successful and produced a gbif object
     # and data is not empty (i.e., there are gbif records for "name")
     if(inherits(name_gbif, "gbif") & !is.null(name_gbif$data)){
-      # create a data frame object containing "name" and gbif data for "name"
-      name_gbif <- cbind(name, name_gbif$data)
-      # add column names to the data frame
-      colnames(name_gbif)<-c("species","Longitude","Latitude")
+      # sometimes, there are records but they are not retrieved
+      # if data was more than 0 rows
+      if(nrow(name_gbif$data)){
+        # create a data frame object containing "name" and gbif data for "name"
+        name_gbif <- cbind(name, name_gbif$data)
+        # add column names to the data frame
+        colnames(name_gbif)<-c("species","Longitude","Latitude")
+      }
     }
   # concatenate the result of each "name" into a list
   subtaxa_gbif <- c(subtaxa_gbif, list(name_gbif))
