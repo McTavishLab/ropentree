@@ -48,6 +48,9 @@
   </a>
   <ul class="dropdown-menu" role="menu">
 <li>
+      <a href="../articles/nameset_tool.html">Creating a file of a pre-mapped nameset for OpenTree's import nameset tool</a>
+    </li>
+    <li>
       <a href="../articles/plant_genera.html">plant_genera</a>
     </li>
   </ul>
@@ -303,8 +306,12 @@
 <span class="fu"><a href="https://rdrr.io/r/base/length.html">length</a></span><span class="op">(</span><span class="va">subtree_taxa_phylo_id</span><span class="op">)</span>
 <span class="co">#&gt; [1] 14</span>
 <span class="fu"><a href="https://rdrr.io/r/base/names.html">names</a></span><span class="op">(</span><span class="va">subtree_taxa_phylo_id</span><span class="op">)</span> <span class="op">&lt;-</span> <span class="va">taxa</span><span class="op">[</span><span class="va">is_phylo</span><span class="op">]</span></pre></div>
-<p>Now, we can make a vector containing all taxon names that are tip labels in the synthetic subtrees:</p>
+<p>Save the trees:</p>
 <div class="sourceCode" id="cb12"><pre class="downlit">
+<span class="fu"><a href="https://rdrr.io/r/base/assign.html">assign</a></span><span class="op">(</span><span class="st">"subtrees"</span>, <span class="fu"><a href="https://rdrr.io/r/base/get.html">get</a></span><span class="op">(</span><span class="st">"subtree_taxa_phylo_name"</span><span class="op">)</span><span class="op">)</span>
+<span class="fu"><a href="https://rdrr.io/r/base/save.html">save</a></span><span class="op">(</span>list <span class="op">=</span> <span class="st">"subtrees"</span>, file <span class="op">=</span> <span class="st">"../data-raw/subtrees.RData"</span><span class="op">)</span></pre></div>
+<p>Now, we can make a vector containing all taxon names that are tip labels in the synthetic subtrees:</p>
+<div class="sourceCode" id="cb13"><pre class="downlit">
 <span class="va">subtaxa_name</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/lapply.html">sapply</a></span><span class="op">(</span><span class="va">subtree_taxa_phylo_name</span>, <span class="st">"["</span>, <span class="st">"tip.label"</span><span class="op">)</span>
 <span class="fu"><a href="https://rdrr.io/r/base/length.html">length</a></span><span class="op">(</span><span class="va">subtaxa_name</span><span class="op">)</span>
 <span class="co">#&gt; [1] 14</span>
@@ -330,7 +337,7 @@
 <h1 class="hasAnchor">
 <a href="#get-gbif-data-for-tips-in-tree" class="anchor"></a>Get GBIF data for tips in tree</h1>
 <p>We will use the function <code>occ_search</code> from the <code>rgbif</code> R package. Let’s try it first with the scientific names in <code>subtaxa_name</code>:</p>
-<div class="sourceCode" id="cb13"><pre class="downlit">
+<div class="sourceCode" id="cb14"><pre class="downlit">
 
 <span class="va">name</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/grep.html">gsub</a></span><span class="op">(</span><span class="st">"_"</span>, <span class="st">" "</span>, <span class="va">subtaxa_name</span><span class="op">[[</span><span class="fl">1</span><span class="op">]</span><span class="op">]</span><span class="op">[</span><span class="fl">1</span><span class="op">]</span><span class="op">)</span>
 <span class="va">name_gbif</span> <span class="op">&lt;-</span> <span class="fu">rgbif</span><span class="fu">::</span><span class="fu"><a href="https://docs.ropensci.org/rgbif/reference/occ_search.html">occ_search</a></span><span class="op">(</span>scientificName <span class="op">=</span> <span class="va">name</span>, fields<span class="op">=</span><span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="st">'name'</span>,<span class="st">'decimalLatitude'</span>, <span class="st">'decimalLongitude'</span><span class="op">)</span>, limit <span class="op">=</span> <span class="fl">100</span><span class="op">)</span>
@@ -351,7 +358,7 @@
 <span class="co">#&gt; 7             169            -52.6</span>
 <span class="co">#&gt; 8             169.           -52.5</span></pre></div>
 <p>Next, we will do it in a loop:</p>
-<div class="sourceCode" id="cb14"><pre class="downlit">
+<div class="sourceCode" id="cb15"><pre class="downlit">
 <span class="co"># for each phylo object i</span>
 <span class="kw">for</span> <span class="op">(</span><span class="va">i</span> <span class="kw">in</span> <span class="fl">1</span><span class="op">:</span><span class="fu"><a href="https://rdrr.io/r/base/length.html">length</a></span><span class="op">(</span><span class="va">subtaxa_name</span><span class="op">)</span><span class="op">)</span><span class="op">{</span>
   <span class="fu"><a href="https://rdrr.io/r/base/print.html">print</a></span><span class="op">(</span><span class="va">i</span><span class="op">)</span>
